@@ -1,0 +1,15 @@
+#!/bin/sh
+
+# Esse é um script para automaticamente compilar o arquivo `informes.adoc`
+# para HTML e PDF.
+#
+# É necessario ter os programas `asciidoctor` e `asciidoctor-pdf` instalados.
+#
+# Para instalar o `asciidoctor` siga às instruções em 
+# https://github.com/asciidoctor/asciidoctor#installation.
+#
+# Para instalar o `asciidoctor-pdf` siga às instruções em 
+# https://github.com/asciidoctor/asciidoctor-pdf#install-the-published-gem.
+
+aciidoctor -b html -o index.html informes.adoc
+aciidoctor-pdf -b pdf -o informes.pdf informes.adoc
