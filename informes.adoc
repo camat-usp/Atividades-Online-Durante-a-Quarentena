@@ -1,0 +1,79 @@
+= Atividades Online Durante a Quarentena
+CAMat <camat.usp@gmail.com>
+v1,2020-03-19
+:toc: macro
+:toc-title: Conteúdos
+:note-caption: Nota
+:icons: font
+:stylesheet: adoc-maker.css
+
+Com a determinação da CRUESP, na sexta-feira passada, de que fossem suspensa as 
+atividades escolares presenciais a partir de terça-feira (17), passaram a ser 
+adotadas alternativas online para dar continuidade às disciplinas.
+
+Sabendo que estas medidas foram tomadas às pressas e visando auxiliar as(os) 
+estudantes, o CAMat está organizando um site, que será divulgado às(os) 
+estudantes, reunindo informação de todas disciplinas a fim de facilitar o 
+acesso, visto que as disciplinas não estão todas numa plataforma comum.
+
+Esperamos que compreendam que neste documento constam apenas informações a
+respeito de cursos cujos professores responderam à nossa solicitação de
+email.
+
+O CAMat reforça que o e-mail institucional é o canal de comunicação comumente 
+utilizado pelos docentes e, portanto, em momento como este, mais do que antes, 
+se faz necessário o uso; cheque diariamente a sua caixa de entrada!
+
+[NOTE]
+Você não tem suporte técnico adequado para acompanhar as atividades?
+Comunique o CAMat!
+
+toc::[]
+
+== Departamento de Matemática
+
+=== MAT0112 - Vetores e Geometria (Turmas 21 e 46)
+
+O professor Ivan Struchiner tem a intenção de repor todas as aulas de 
+forma presencial assim que possível "`a não ser que a administração central da 
+Universidade impeça essa possibilidade`", além de realizar algumas atividades 
+online. 
+
+O professor afirma que está considerando as sequintes alternativas e que está
+aberto a sugestões:
+
+. Reuniões via Google Meets. As reuniões serão gravadas e disponibilizadas para 
+os alunos.
+
+. Escrever textos, notas de aulas, resolução de exercícios, etc. Esses textos 
+seriam postados na homepage do professor.
+
+. Criar um fórum de discussão.
+
+. Responder emails, com ajuda do monitor, de dúvidas.
+
+[horizontal]
+Contato do Professor:: ivanstru@gmail.com
+
+== Departamento de Ciência da Computação
+
+=== MAC0218 - Técnicas de Programação II
+
+A disciplina seguirá com aulas online, usando o Google Meet e com material 
+adicional no e-disciplinas. O link para cada aula é disponibilizado dentro 
+do próprio e-disciplinas.
+
+As aulas online serão gravadas e disponibilizadas para toda a classe.
+
+[horizontal]
+Contato do Professor:: gubi@ime.usp.br
+
+=== MAC0427 - Otimização não Linear (Noturno)
+
+O professor afirma que "`continua a dar aulas online, sem grandes 
+planejamentos`". Mais informações podem ser encontradas no 
+link:https://paca.ime.usp.br/course/view.php?id=1500[PACA].
+
+[horizontal]
+Contato do Professor:: ghaeser@ime.usp.br
+
