@@ -7,18 +7,17 @@ v1,2020-03-19
 :icons: font
 :stylesheet: adoc-maker.css
 
-Com a determinação da CRUESP, na sexta-feira passada, de que fossem suspensa as 
-atividades escolares presenciais a partir de terça-feira (17), passaram a ser 
-adotadas alternativas online para dar continuidade às disciplinas.
+Com a determinação da CRUESP, que suspendeu temporariamente as atividades escolares 
+presenciais a partir de terça-feira (17), passaram a ser adotadas alternativas online para dar continuidade às disciplinas.
 
 Sabendo que estas medidas foram tomadas às pressas e visando auxiliar as(os) 
-estudantes, o CAMat está organizando um site, que será divulgado às(os) 
-estudantes, reunindo informação de todas disciplinas a fim de facilitar o 
-acesso, visto que as disciplinas não estão todas numa plataforma comum.
+estudantes, organizamos este site eunindo informações de diversas disciplinas, facilitando o 
+acesso, visto que estas não estão todas numa plataforma comum.
 
-Esperamos que compreendam que neste documento constam apenas informações a
-respeito de cursos cujos professores responderam à nossa solicitação de
-email.
+As informações foram obtidas através de contato com professores via e-mail e resposta do 
+formulário divulgado pelo CAMat à comunidade estudantil do IME. Por isso, pedimos compreensão 
+de todas(os) caso não encontrem neste documento alguma disciplina ou informação específica. Caso queira
+colaborar com conteúdo, https://qrgo.page.link/ENFtn[acesse o formulário.]
 
 O CAMat reforça que o e-mail institucional é o canal de comunicação comumente 
 utilizado pelos docentes e, portanto, em momento como este, mais do que antes, 
@@ -26,7 +25,7 @@ se faz necessário o uso; cheque diariamente a sua caixa de entrada!
 
 [NOTE]
 Você não tem suporte técnico adequado para acompanhar as atividades?
-Comunique o CAMat!
+https://qrgo.page.link/DRMk5[Comunique o CAMat!]
 
 toc::[]
 
@@ -55,7 +54,84 @@ seriam postados na homepage do professor.
 [horizontal]
 Contato do Professor:: ivanstru@gmail.com
 
+=== MAT0164 - Números Inteiros: Uma Introdução à Matemática
+
+A professora Leila Vasconcellos pretende disponibilizar atividades online no e-disciplinas, mas não prosseguirá
+com a matéria conmo ensino à distância.
+
+[horizontal]
+Contato da Professora:: leila@ime.usp.br
+
+=== MAT0205 - Cálculo Diferencial e Integral III
+
+O professor Salvador Zanata prosseguirá com a disciplina via Google Hangout (apenas chamada de áudio).
+Segue o link do chat: https://meet.google.com/ngw-avbe-asi
+
+[horizontal]
+Contato do Professor:: sazanata@ime.usp.br
+
+=== MAT0231 - Àlgebra II para Licenciatura
+
+A professora Leila Vasconcellos pretende disponibilizar atividades online no e-disciplinas, mas não prosseguirá
+com a matéria conmo ensino à distância.
+
+[horizontal]
+Contato da Professora:: leila@ime.usp.br
+
+=== MAT0240 - Geometria e Desenho Geométrico II (turma diurno)
+
+O professor Ricardo Bianconi prosseguirá com a disciplina disponibilizando a
+apostila do curso do www.ime.usp.br/mat/0240/[site da disciplina] e mantendo contato via e-mail institucional.
+
+De acordo com as orientações do site, a P1 será mantida no dia 02/04.
+
+[horizontal]
+Contato do Professor:: bianconi@ime.usp.br
+
+== Departamento de Estatística
+
+=== MAE0217 - Estatística Descritiva
+
+O professor Julio da Motta Singer optou por prosseguir com a disciplina utilizando o Google-Meet. A comunicação com a turma está sendo feito através da https://www.ime.usp.br/~jmsinger/doku.php?id=mae0217[página da disciplina]
+
+[horizontal]
+Contato do Professor:: jmsinger@ime.usp.br
+
+=== MAE0314 - Análise Estatística
+
+Atividades suspensas até o retorno das aulas.
+
+=== MAE0317 - Planejamento e Pesquisa I
+
+A professora Viviana Giampaoli seguirá com a disciplina de forma online da seguinte forma:
+
+. Para as aulas usará o Google-Meet
+
+. O material da disciplina será disponibilizado no e-desciplinas.
+
+[horizontal]
+Contato da Professora:: vivig@ime.usp.br
+
+=== MAE1514 - Estatística no Ensino Básico
+
+A professora Viviana Giampaoli seguirá com a disciplina de forma online da seguinte forma:
+
+. Para as aulas usará o Google-Meet
+
+. O material da disciplina será disponibilizado no e-desciplinas.
+
+[horizontal]
+Contato da Professora:: vivig@ime.usp.br
+
 == Departamento de Ciência da Computação
+
+=== MAC0110 - Introdução à Computação para Licenciatura (turma diurno)
+
+O professor Denis Deratani Mauá dará continuidade a disciplina por meio de vídeo-aulas
+e exercícios, usando o e-disciplinas.
+
+[horizontal]
+Contato do Professor:: ddm@ime.usp.br
 
 === MAC0218 - Técnicas de Programação II
 
@@ -77,3 +153,30 @@ link:https://paca.ime.usp.br/course/view.php?id=1500[PACA].
 [horizontal]
 Contato do Professor:: ghaeser@ime.usp.br
 
+== Departamento de Matemática Aplicada
+
+=== MAP0151 - Cálculo Numérico e Aplicações
+O professor Alexandre Roma está dando continuidade à matéria via Zoom (zoom.us).
+
+A comunicação com a turma ocorre por meio do e-disciplinas. O professor pede para 
+àqueles que entraram posteriormente enviem um e-mail para roma@ime.usp.br para que
+ele possa adicioná-los manualmente na turma do e-disciplinas.
+
+[horizontal]
+Contato do Professor:: alexandre.roma@gmail.com
+
+=== MAP0216 - Introdução à Análise Real
+
+Atividades suspensas até o retorno das aulas.
+
+== Física
+
+=== 4300152 - Medidas Física
+
+Atividades suspensas até o retorno das aulas.
+
+== Educação
+
+=== EDM0400 - Educação especial, Surdos e Libras
+
+Atividades suspensas até o retorno das aulas.
