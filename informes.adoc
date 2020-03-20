@@ -1,6 +1,6 @@
 = Atividades Online Durante a Quarentena
 CAMat <camat.usp@gmail.com>
-2020-03-19
+19-03-2020
 :favicon: ./favicon.svg
 :toc: macro
 :toc-title: Conteúdos
@@ -9,7 +9,7 @@ CAMat <camat.usp@gmail.com>
 :stylesheet: adoc-maker.css
 
 Com a determinação da CRUESP, que suspendeu temporariamente as atividades 
-escolares presenciais a partir de terça-feira (17), passaram a ser adotadas 
+escolares presenciais a partir de terça-feira (17/03), passaram a ser adotadas 
 alternativas online para dar continuidade às disciplinas.
 
 Sabendo que estas medidas foram tomadas às pressas e visando auxiliar as(os) 
