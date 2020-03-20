@@ -6,7 +6,7 @@
      xmlns="http://www.w3.org/2000/svg">
   <circle cx="100" 
           cy="100" 
-          r="100" 
+          r="70" 
           fill="#9a221f" 
           stroke-width=".26458"/>
 </svg>

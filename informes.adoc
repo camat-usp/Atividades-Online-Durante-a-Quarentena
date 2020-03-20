@@ -1,11 +1,11 @@
 = Atividades Online Durante a Quarentena
 CAMat <camat.usp@gmail.com>
 2020-03-19
+:favicon: ./favicon.svg
 :toc: macro
 :toc-title: Conteúdos
 :note-caption: Nota
 :icons: font
-:favicon: favicon.svg
 :stylesheet: adoc-maker.css
 
 Com a determinação da CRUESP, que suspendeu temporariamente as atividades 
