@@ -41,6 +41,12 @@ a:focus { outline: thin dotted; }
 a:active, a:hover { outline: 0; }
 
 /* ========================================================================== Typography ========================================================================== */
+
+:root {
+    --highlight: #2bb93a;
+    --highlight-dim: #13823e;
+}
+
 /** Address variable `h1` font-size and margin within `section` and `article` contexts in Firefox 4+, Safari 5, and Chrome. */
 h1 { font-size: 2em; margin: 0.67em 0; }
 
@@ -172,14 +178,14 @@ select { width: 100%; }
 
 p.lead, .paragraph.lead > p, #preamble > .sectionbody > .paragraph:first-of-type p { font-size: 1.21875em; line-height: 1.6; }
 
-.subheader, #content #toctitle, .admonitionblock td.content > .title, .exampleblock > .title, .imageblock > .title, .videoblock > .title, .listingblock > .title, .literalblock > .title, .openblock > .title, .paragraph > .title, .quoteblock > .title, .sidebarblock > .title, .tableblock > .title, .verseblock > .title, .dlist > .title, .olist > .title, .ulist > .title, .qlist > .title, .hdlist > .title, .tableblock > caption { line-height: 1.4; color: #a32421; font-weight: 300; margin-top: 0.2em; margin-bottom: 0.5em; }
+.subheader, #content #toctitle, .admonitionblock td.content > .title, .exampleblock > .title, .imageblock > .title, .videoblock > .title, .listingblock > .title, .literalblock > .title, .openblock > .title, .paragraph > .title, .quoteblock > .title, .sidebarblock > .title, .tableblock > .title, .verseblock > .title, .dlist > .title, .olist > .title, .ulist > .title, .qlist > .title, .hdlist > .title, .tableblock > caption { line-height: 1.4; color: var(--highlight-dim); font-weight: 300; margin-top: 0.2em; margin-bottom: 0.5em; }
 
 /* Typography resets */
 div, dl, dt, dd, ul, ol, li, h1, h2, h3, #toctitle, .sidebarblock > .content > .title, h4, h5, h6, pre, form, p, blockquote, th, td { margin: 0; padding: 0; direction: ltr; }
 
 /* Default Link Styles */
-a { color: #cd2e29; text-decoration: none; line-height: inherit; }
-a:hover, a:focus { color: #cd2e29; }
+a { color: var(--highlight); text-decoration: none; line-height: inherit; }
+a:hover, a:focus { color: var(--highlight); }
 a img { border: none; }
 
 /* Default paragraph styles */
@@ -326,7 +332,7 @@ kbd kbd:last-child { margin-right: 0; }
 #toc ul.sectlevel0 ul.sectlevel1 { margin-left: 0; margin-top: 0.5em; margin-bottom: 0.5em; }
 #toc ul { list-style-type: none; }
 
-#toctitle { color: #a32421; }
+#toctitle { color: var(--highlight-dim); }
 
 @media only screen and (min-width: 1280px) { body.toc2 { padding-left: 20em; }
   #toc.toc2 { position: fixed; width: 20em; left: 0; top: 0; border-right: 1px solid #eeeeee; border-bottom: 0; z-index: 1000; padding: 1em; height: 100%; overflow: auto; }
@@ -387,7 +393,7 @@ table.tableblock #preamble > .sectionbody > .paragraph:first-of-type p { font-si
 .sidebarblock h1, .sidebarblock h2, .sidebarblock h3, .sidebarblock #toctitle, .sidebarblock > .content > .title, .sidebarblock h4, .sidebarblock h5, .sidebarblock h6, .sidebarblock p { color: #333333; }
 .sidebarblock h1, .sidebarblock h2, .sidebarblock h3, .sidebarblock #toctitle, .sidebarblock > .content > .title, .sidebarblock h4, .sidebarblock h5, .sidebarblock h6 { line-height: 1; margin-bottom: 0.625em; }
 .sidebarblock h1.subheader, .sidebarblock h2.subheader, .sidebarblock h3.subheader, .sidebarblock .subheader#toctitle, .sidebarblock > .content > .subheader.title, .sidebarblock h4.subheader, .sidebarblock h5.subheader, .sidebarblock h6.subheader { line-height: 1.4; }
-.sidebarblock > .content > .title { color: #a32421; margin-top: 0; line-height: 1.6; }
+.sidebarblock > .content > .title { color: var(--highlight-dim); margin-top: 0; line-height: 1.6; }
 
 .exampleblock > .content > :last-child > :last-child, .exampleblock > .content .olist > ol > li:last-child > :last-child, .exampleblock > .content .ulist > ul > li:last-child > :last-child, .exampleblock > .content .qlist > ol > li:last-child > :last-child, .sidebarblock > .content > :last-child > :last-child, .sidebarblock > .content .olist > ol > li:last-child > :last-child, .sidebarblock > .content .ulist > ul > li:last-child > :last-child, .sidebarblock > .content .qlist > ol > li:last-child > :last-child { margin-bottom: 0; }
 
@@ -623,7 +629,7 @@ div.unbreakable { page-break-inside: avoid; }
 span.icon > [class^="icon-"], span.icon > [class*=" icon-"] { cursor: default; }
 
 .admonitionblock td.icon [class^="icon-"]:before { font-size: 2.5em; text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5); cursor: default; }
-.admonitionblock td.icon .icon-note:before { content: "\f05a"; color: #cd2e29; color: #9a221f; }
+.admonitionblock td.icon .icon-note:before { content: "\f05a"; color: var(--highlight); color: var(--highlight-dim); }
 .admonitionblock td.icon .icon-tip:before { content: "\f0eb"; text-shadow: 1px 1px 2px rgba(155, 155, 0, 0.8); color: #111; }
 .admonitionblock td.icon .icon-warning:before { content: "\f071"; color: #bf6900; }
 .admonitionblock td.icon .icon-caution:before { content: "\f06d"; color: #bf3400; }
@@ -1306,7 +1312,7 @@ Contato do Professor
 </div>
 <div id="footer">
 <div id="footer-text">
-Last updated 2020-03-20 23:05:30 -0300
+Last updated 2020-03-20 23:12:27 -0300
 </div>
 </div>
 </body>
