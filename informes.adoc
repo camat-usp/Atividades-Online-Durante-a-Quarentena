@@ -6,7 +6,7 @@ CAMat <camat.usp@gmail.com>
 :toc-title: Conteúdos
 :note-caption: Nota
 :icons: font
-:stylesheet: adoc-maker.css
+:stylesheet: styles.css
 
 Com a determinação da CRUESP, que suspendeu temporariamente as atividades 
 escolares presenciais a partir de terça-feira (17/03), passaram a ser adotadas 
