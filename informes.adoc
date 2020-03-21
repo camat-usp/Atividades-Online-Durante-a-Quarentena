@@ -48,7 +48,7 @@ aberto a sugestões:
 os alunos.
 
 . Escrever textos, notas de aulas, resolução de exercícios, etc. Esses textos 
-seriam postados na homepage do professor.
+serão postados na https://www.ime.usp.br/~ivanstru/Site/MAT-112-2020_files/COVID-19/[homepage do professor].
 
 . Criar um fórum de discussão.
 
@@ -82,7 +82,7 @@ e-disciplinas, mas não prosseguirá com a matéria conmo ensino à distância.
 [horizontal]
 Contato da Professora:: leila@ime.usp.br
 
-=== MAT0240 - Geometria e Desenho Geométrico II (turma diurno)
+=== MAT0240 - Geometria e Desenho Geométrico II (Diurno)
 
 O professor Ricardo Bianconi prosseguirá com a disciplina disponibilizando a
 apostila do curso do link:https://www.ime.usp.br/mat/0240/[site da disciplina] 
@@ -93,7 +93,53 @@ De acordo com as orientações do site, a P1 será mantida no dia 02/04.
 [horizontal]
 Contato do Professor:: bianconi@ime.usp.br
 
+=== MAT0264 - Anéis e Corpos
+
+O professor Ivan Chestakov ainda não se pronunciou publicamente sobre essa questão. Porém, a um e-mail de um aluno
+o indagando sobre esta questão, respondeu que não ministraria as aulas de forma online.
+
+[horizontal]
+Contato do Professor:: shestak@ime.usp.br
+
+=== MAT0450 - Seminário de Resolução de Problemas
+
+Atividades suspensas até o retorno das aulas presenciais.
+
+Comunicação com as(os) estudantes sendo feito via e-disciplinas.
+
+[horizontal]
+Contato do Professor:: alpereir@ime.usp.br
+
+=== MAT2351 - Cálculo para Funções de Várias Variáveis I (Turmas 22 e 47)
+
+Atividades suspensas até o retorno das aulas presenciais.
+
+Há três listas já disponibilizadas na https://www.ime.usp.br/~dpdias/2020/MAT2351.html[página do professor.]
+
+[horizontal]
+Contato do Professor:: dpdias@ime.usp.br
+
+=== MAT2351 - Cálculo para Funções de Várias Variáveis I (Turma 42)
+
+Atividades suspensas até o retorno das aulas presenciais.
+
+A professora Claudia Cueva Candido está mantendo o contato, para retirar dúvidas 
+e compartilhar informações, com as(os) estudantes por meio do Google-Meet e https://zoom.us[Zoom.]
+
+[horizontal]
+Contato da Professora:: cueva@ime.usp.br
+
 == Departamento de Estatística
+
+=== MAE1511 - Estatística para Licenciatura I (Turma 42)
+
+Atividades suspensas até o retorno das aulas presenciais.
+
+Aguardando resposta do professor Marcos Magalhães quanto ao canal a ser adotado para 
+comunicação com as(os) estudantes durante o período de quarentena.
+
+[horizontal]
+Contato do Professor:: marcos@ime.usp.br
 
 === MAE0217 - Estatística Descritiva
 
@@ -134,7 +180,7 @@ Contato da Professora:: vivig@ime.usp.br
 
 == Departamento de Ciência da Computação
 
-=== MAC0110 - Introdução à Computação para Licenciatura (turma diurno)
+=== MAC0110 - Introdução à Computação para Licenciatura (Diurno)
 
 O professor Denis Deratani Mauá dará continuidade a disciplina por meio de 
 vídeo-aulas e exercícios, usando o e-disciplinas.
@@ -153,6 +199,31 @@ As aulas online serão gravadas e disponibilizadas para toda a classe.
 [horizontal]
 Contato do Professor:: gubi@ime.usp.br
 
+=== MAC0219 - Programação Concorrente e Paralela
+
+Adotando o e-disciplinas e Google-Meet como alternativa online, o professor
+Alfredo Goldman dará continuidade às aulas.
+
+[horizontal]
+Contato do Professor:: gold@ime.usp.br
+
+=== MAC0336 - Criptografia e Segurança de Dados
+
+O professor Routo Terada prosseguirá o calendário letivo com aulas onlines através do
+Google-Meet. O link é disponibilizado um pouco antes do horário de aula no [https://paca.ime.usp.br/login/index.php]PACA.
+
+Para dúvidas e demais informações, há um grupo da disciplina no Telegram: t.me/cripto2020ime
+
+[horizontal]
+Contato do Professor:: rt@ime.usp.br
+
+=== MAC0425 - Inteligência Artificial
+
+O professor Marcelo Finger prosseguirá com atividades online, adotando o uso do Google-Meet.
+
+[horizontal]
+Contato do Professor:: mfinger@ime.usp.br
+
 === MAC0427 - Otimização não Linear (Noturno)
 
 O professor afirma que "`continua a dar aulas online, sem grandes 
@@ -161,6 +232,17 @@ link:https://paca.ime.usp.br/course/view.php?id=1500[PACA].
 
 [horizontal]
 Contato do Professor:: ghaeser@ime.usp.br
+
+=== MAC0439 - Laboratório de Bancos de Dados
+
+A professora Kelly Rosa Braghetto dará continuidade usando as seguintes plataformas:
+
+. e-disciplinas
+
+. https://meet.google.com/rpa-nvxe-uyb[Google-Meet]
+
+[horizontal]
+Contato da Professora:: kellyrb@ime.usp.br
 
 == Departamento de Matemática Aplicada
 
