@@ -20,11 +20,14 @@ As informações foram obtidas através de contato com professores via e-mail e
 resposta do formulário divulgado pelo CAMat à comunidade estudantil do IME. 
 Por isso, pedimos compreensão de todas(os) caso não encontrem neste documento 
 alguma disciplina ou informação específica. Caso queira colaborar com conteúdo, 
-link:https://qrgo.page.link/ENFtn[acesse o formulário.]
+link:https://qrgo.page.link/ENFtn[acesse o formulário].
 
 O CAMat reforça que o e-mail institucional é o canal de comunicação comumente 
 utilizado pelos docentes e, portanto, em momento como este, mais do que antes, 
 se faz necessário o uso; cheque diariamente a sua caixa de entrada!
+
+[NOTE]
+Dúvidas? Leaia o https://camat-usp.github.io/Atividades-Online-Durante-a-Quarentena/faq.html[F.A.Q.]?
 
 [NOTE]
 Você não tem suporte técnico adequado para acompanhar as atividades?
@@ -49,7 +52,7 @@ aberto a sugestões:
 
 . Escrever textos, notas de aulas, resolução de exercícios, etc. Esses textos 
   serão postados na 
-  link:https://www.ime.usp.br/~ivanstru/Site/MAT-112-2020_files/COVID-19/[homepage do professor].
+  https://www.ime.usp.br/~ivanstru/Site/MAT-112-2020_files/COVID-19/[homepage do professor].
 
 . Criar um fórum de discussão.
 
