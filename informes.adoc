@@ -6,7 +6,7 @@ CAMat <camat.usp@gmail.com>
 :toc-title: Conteúdos
 :note-caption: Nota
 :icons: font
-:stylesheet: adoc-maker.css
+:stylesheet: styles.css
 
 Com a determinação da CRUESP, que suspendeu temporariamente as atividades 
 escolares presenciais a partir de terça-feira (17/03), passaram a ser adotadas 
@@ -45,10 +45,11 @@ O professor afirma que está considerando as sequintes alternativas e que está
 aberto a sugestões:
 
 . Reuniões via Google Meets. As reuniões serão gravadas e disponibilizadas para 
-os alunos.
+  os alunos.
 
 . Escrever textos, notas de aulas, resolução de exercícios, etc. Esses textos 
-serão postados na https://www.ime.usp.br/~ivanstru/Site/MAT-112-2020_files/COVID-19/[homepage do professor].
+  serão postados na 
+  link:https://www.ime.usp.br/~ivanstru/Site/MAT-112-2020_files/COVID-19/[homepage do professor].
 
 . Criar um fórum de discussão.
 
@@ -95,8 +96,9 @@ Contato do Professor:: bianconi@ime.usp.br
 
 === MAT0264 - Anéis e Corpos
 
-O professor Ivan Chestakov ainda não se pronunciou publicamente sobre essa questão. Porém, a um e-mail de um aluno
-o indagando sobre esta questão, respondeu que não ministraria as aulas de forma online.
+O professor Ivan Shestakov ainda não se pronunciou publicamente sobre essa 
+questão. Porém, a um e-mail de um aluno o indagando sobre esta questão, 
+respondeu que não ministraria as aulas de forma online.
 
 [horizontal]
 Contato do Professor:: shestak@ime.usp.br
@@ -114,7 +116,8 @@ Contato do Professor:: alpereir@ime.usp.br
 
 Atividades suspensas até o retorno das aulas presenciais.
 
-Há três listas já disponibilizadas na https://www.ime.usp.br/~dpdias/2020/MAT2351.html[página do professor.]
+Há três listas já disponibilizadas na 
+link:https://www.ime.usp.br/~dpdias/2020/MAT2351.html[página do professor.]
 
 [horizontal]
 Contato do Professor:: dpdias@ime.usp.br
@@ -123,8 +126,9 @@ Contato do Professor:: dpdias@ime.usp.br
 
 Atividades suspensas até o retorno das aulas presenciais.
 
-A professora Claudia Cueva Candido está mantendo o contato, para retirar dúvidas 
-e compartilhar informações, com as(os) estudantes por meio do Google-Meet e https://zoom.us[Zoom.]
+A professora Claudia Cueva Candido está mantendo o contato, para retirar 
+dúvidas e compartilhar informações, com as(os) estudantes por meio do 
+Google-Meet e link:https://zoom.us[Zoom].
 
 [horizontal]
 Contato da Professora:: cueva@ime.usp.br
@@ -135,8 +139,8 @@ Contato da Professora:: cueva@ime.usp.br
 
 Atividades suspensas até o retorno das aulas presenciais.
 
-Aguardando resposta do professor Marcos Magalhães quanto ao canal a ser adotado para 
-comunicação com as(os) estudantes durante o período de quarentena.
+Aguardando resposta do professor Marcos Magalhães quanto ao canal a ser adotado 
+para comunicação com as(os) estudantes durante o período de quarentena.
 
 [horizontal]
 Contato do Professor:: marcos@ime.usp.br
@@ -145,7 +149,9 @@ Contato do Professor:: marcos@ime.usp.br
 
 O professor Julio da Motta Singer optou por prosseguir com a disciplina 
 utilizando o Google-Meet. A comunicação com a turma está sendo feito através 
-da link:https://www.ime.usp.br/~jmsinger/doku.php?id=mae0217[página da disciplina]
+da 
+link:https://www.ime.usp.br/~jmsinger/doku.php?id=mae0217[página da disciplina]
+.
 
 [horizontal]
 Contato do Professor:: jmsinger@ime.usp.br
@@ -209,17 +215,20 @@ Contato do Professor:: gold@ime.usp.br
 
 === MAC0336 - Criptografia e Segurança de Dados
 
-O professor Routo Terada prosseguirá o calendário letivo com aulas onlines através do
-Google-Meet. O link é disponibilizado um pouco antes do horário de aula no [https://paca.ime.usp.br/login/index.php]PACA.
+O professor Routo Terada prosseguirá o calendário letivo com aulas onlines 
+através do Google-Meet. O link é disponibilizado um pouco antes do horário de 
+aula no link:https://paca.ime.usp.br/login/index.php[PACA].
 
-Para dúvidas e demais informações, há um grupo da disciplina no Telegram: t.me/cripto2020ime
+Para dúvidas e demais informações, há um grupo da disciplina no Telegram: 
+t.me/cripto2020ime
 
 [horizontal]
 Contato do Professor:: rt@ime.usp.br
 
 === MAC0425 - Inteligência Artificial
 
-O professor Marcelo Finger prosseguirá com atividades online, adotando o uso do Google-Meet.
+O professor Marcelo Finger prosseguirá com atividades online, adotando o uso do 
+Google-Meet.
 
 [horizontal]
 Contato do Professor:: mfinger@ime.usp.br
@@ -235,7 +244,8 @@ Contato do Professor:: ghaeser@ime.usp.br
 
 === MAC0439 - Laboratório de Bancos de Dados
 
-A professora Kelly Rosa Braghetto dará continuidade usando as seguintes plataformas:
+A professora Kelly Rosa Braghetto dará continuidade usando as seguintes 
+plataformas:
 
 . e-disciplinas
 
