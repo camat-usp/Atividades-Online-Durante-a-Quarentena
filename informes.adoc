@@ -72,7 +72,8 @@ Contato do Professor:: alpereir@ime.usp.br
 
 === MAT0105 - Geometria Analítica (Turma 42)
 
-A professora Ana Paula Jahn dará continuidade à disciplina através do e-disciplinas.
+A professora Ana Paula Jahn dará continuidade à disciplina através do 
+e-disciplinas.
 
 [horizontal]
 Contato da Professora:: anajahn@ime.usp.br
@@ -81,9 +82,10 @@ Contato da Professora:: anajahn@ime.usp.br
 
 O professor Vyacheslav Futorny prosseguirá com a disciplina via Google-Meet.
 
-De acordo com informações do https://www.ime.usp.br/~futorny/teaching.html[site do professor], 
-as aulas online terão início quarta-feira (25/03),às 19:20. O link e código 
-da sala no Google-Meet será informado com 20 minutos de antecedência.
+De acordo com informações do 
+link:https://www.ime.usp.br/~futorny/teaching.html[site do professor], as aulas 
+online terão início quarta-feira (25/03),às 19:20. O link e código da sala no 
+Google-Meet será informado com 20 minutos de antecedência.
 
 [horizontal]
 Contato do Professor:: futorny@ime.usp.br
@@ -119,8 +121,9 @@ O professor Ricardo Bianconi prosseguirá com a disciplina disponibilizando a
 apostila do curso do link:https://www.ime.usp.br/mat/0240/[site da disciplina] 
 e mantendo contato via e-mail institucional.
 
-De acordo com as orientações do site, a P1 será mantida no dia 02/04 e será aplicada virtualmente tendo as(os)
-estudantes de 10:00 às 20:00 (horário de Brasília) para enviar as respostas via e-mail.
+De acordo com as orientações do site, a P1 será mantida no dia 02/04 e será 
+aplicada virtualmente tendo as(os) estudantes de 10:00 às 20:00 (horário de 
+Brasília) para enviar as respostas via e-mail.
 
 [horizontal]
 Contato do Professor:: bianconi@ime.usp.br
@@ -136,12 +139,14 @@ Contato do Professor:: shestak@ime.usp.br
 
 === MAT0310 - Geometria III (Turma 42)
 
-O professor Ricardo Bianconi continuará a disciplina virtualmente. A comunicação entre professor
-e turma ocorre via e-mail institucional e as disciplinas e exercícios estão sendo disponibilizadas
-no https://www.ime.usp.br/~mat/0310/[site da disciplina.]
+O professor Ricardo Bianconi continuará a disciplina virtualmente. A 
+comunicação entre professor e turma ocorre via e-mail institucional e as 
+disciplinas e exercícios estão sendo disponibilizadas no 
+link:https://www.ime.usp.br/~mat/0310/[site da disciplina].
 
-De acordo com as orientações do site, a P1 será mantida no dia 30/03 e será aplicada virtualmente tendo as(os)
-estudantes de 10:00 às 20:00 (horário de Brasília) para enviar as respostas via e-mail.
+De acordo com as orientações do site, a P1 será mantida no dia 30/03 e será 
+aplicada virtualmente tendo as(os) estudantes de 10:00 às 20:00 (horário de 
+Brasília) para enviar as respostas via e-mail.
 
 [horizontal]
 Contato do Professor:: bianconi@ime.usp.br
@@ -160,7 +165,7 @@ Contato do Professor:: alpereir@ime.usp.br
 Atividades suspensas até o retorno das aulas presenciais.
 
 Há três listas já disponibilizadas na 
-link:https://www.ime.usp.br/~dpdias/2020/MAT2351.html[página do professor.]
+link:https://www.ime.usp.br/~dpdias/2020/MAT2351.html[página do professor].
 
 [horizontal]
 Contato do Professor:: dpdias@ime.usp.br
@@ -170,9 +175,12 @@ Contato do Professor:: dpdias@ime.usp.br
 A professora Daniela Mariz prossegue com as atividades de maneira online
 da seguinte forma:
 
-. e-disciplinas para o envio de questionário, exercícios e para comunicação com a turma;
+. e-disciplinas para o envio de questionário, exercícios e para comunicação 
+  com a turma;
 
-. https://www.ime.usp.br/~danim/index.php?target=mat1500[Site da professora] para disponibilizar o material (questionário, exercícios) e o cronograma da disciplina.
+. link:https://www.ime.usp.br/~danim/index.php?target=mat1500[Site da professora] 
+  para disponibilizar o material (questionário, exercícios) e o cronograma da 
+  disciplina.
 
 [horizontal]
 Contato da Professora: danim@ime.usp.br
@@ -270,8 +278,8 @@ Contato do Professor:: gold@ime.usp.br
 
 === MAC0323 - Algoritmos e Estruturas de Dados II
 
-O professor Carlos Eduardo Ferreira prosseguirá com o calendário letivo da disciplina
-por meio do Google-Meet.
+O professor Carlos Eduardo Ferreira prosseguirá com o calendário letivo da 
+disciplina por meio do Google-Meet.
 
 [horizontal]
 Contato do Professor:: cef@ime.usp.br
@@ -337,19 +345,21 @@ Atividades suspensas até o retorno das aulas.
 
 === MAP2212 - Laboratório de Computação e Simulação
 
-O professor Julio Stern prossegue com o calendário letivo da disciplina de modo virtual.
-Utiliza o e-disciplinas para disponibilizar o material necessário a realização dos EP's.
+O professor Julio Stern prossegue com o calendário letivo da disciplina de modo 
+virtual. Utiliza o e-disciplinas para disponibilizar o material necessário a 
+realização dos EP's.
 
 [horizontal]
 Contato do Professor: jstern@ime.usp.br
 
 === MAP2310 - Métodos Numéricos em Equações Diferenciais I
 
-Os professores Nelson Kuhl e Sergio Muniz unificaram as Turmas 44 e 54. A disciplina prosseguirá com
-calendário letivo através do https://edisciplinas.usp.br/course/view.php?id=75932[e-disciplinas.]
+Os professores Nelson Kuhl e Sergio Muniz unificaram as Turmas 44 e 54. A 
+disciplina prosseguirá com calendário letivo através do 
+link:https://edisciplinas.usp.br/course/view.php?id=75932[e-disciplinas].
 
-Os professores pedem para àqueles que ainda não acessaram o e-disciplina então o façam e respondam
-a mensagem que foi enviada.
+Os professores pedem para àqueles que ainda não acessaram o e-disciplina então 
+o façam e respondam a mensagem que foi enviada.
 
 [horizontal]
 Contato do Professor Nelson:: kuhl@ime.usp.br
