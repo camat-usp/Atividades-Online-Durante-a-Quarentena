@@ -270,7 +270,7 @@ Contato do Professor:: gold@ime.usp.br
 
 === MAC0323 - Algoritmos e Estruturas de Dados II
 
-O professor Carlos Eduardo Ferreira prosseguirá com o calendário eletivo da disciplina
+O professor Carlos Eduardo Ferreira prosseguirá com o calendário letivo da disciplina
 por meio do Google-Meet.
 
 [horizontal]
@@ -337,11 +337,25 @@ Atividades suspensas até o retorno das aulas.
 
 === MAP2212 - Laboratório de Computação e Simulação
 
-O professor Julio Stern prossegue com o calendário eletivo da disciplina de modo virtual.
+O professor Julio Stern prossegue com o calendário letivo da disciplina de modo virtual.
 Utiliza o e-disciplinas para disponibilizar o material necessário a realização dos EP's.
 
 [horizontal]
 Contato do Professor: jstern@ime.usp.br
+
+=== MAP2310 - Métodos Numéricos em Equações Diferenciais I
+
+Os professores Nelson Kuhl e Sergio Muniz unificaram as Turmas 44 e 54. A disciplina prosseguirá com
+calendário letivo através do https://edisciplinas.usp.br/course/view.php?id=75932[e-disciplinas.]
+
+Os professores pedem para àqueles que ainda não acessaram o e-disciplina então o façam e respondam
+a mensagem que foi enviada.
+
+[horizontal]
+Contato do Professor Nelson:: kuhl@ime.usp.br
+
+[horizontal]
+Contato do Professor Sergio:: smo@ime.usp.br
 
 == Física
 
