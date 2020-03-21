@@ -13,7 +13,7 @@ escolares presenciais a partir de terça-feira (17/03), passaram a ser adotadas
 alternativas online para dar continuidade às disciplinas.
 
 Sabendo que estas medidas foram tomadas às pressas e visando auxiliar as(os) 
-estudantes, organizamos este site eunindo informações de diversas disciplinas, 
+estudantes, organizamos este site reunindo informações de diversas disciplinas, 
 facilitando o acesso, visto que estas não estão todas numa plataforma comum.
 
 As informações foram obtidas através de contato com professores via e-mail e 
@@ -57,6 +57,38 @@ aberto a sugestões:
 
 [horizontal]
 Contato do Professor:: ivanstru@gmail.com
+
+=== MAT0112 - Vetores e Geometria (Turma 43)
+
+A professora Christina Brech pretende dar atividades onlines 
+pelo e-disciplinas durante o período da quarentena.
+
+[horizontal]
+Contato da Professora:: brech@ime.usp.br 
+
+=== MAT0120 - Álgebra I para Licenciatura (Turmas 42 e 48)
+
+O professor Eduardo do Nascimento Marcos dará continuidade ao calendário
+letivo por meio do e-disciplinas, vide 
+link:https://uspdigital.usp.br/jupiterweb/obterTurma?sgldis=MAT0120[página da disciplina],
+e do Stoa (rede social do e-disciplinas).
+
+[horizontal]
+Contato do Professor:: enmarcos@ime.usp.br
+
+=== MAT0120 - Álgebra I para Licenciatura (Turma 47)
+
+O professor Kostiantyn Iusenko ainda não expressou posicionamento final
+sobre a questão de aulas online. Para embasar a sua posição, o professor
+fez um questionário e espera que o máximo de estudantes matriculados(as)
+na disciplina respondam.
+
+Por hora, seguem disponível duas listas no link:https://www.ime.usp.br/~iusenko/ensino_2020_1/index.php[site do professor]
+e a comunicação ocorre por meio do https://www.facebook.com/groups/493792168235804/[grupo da disciplina] 
+no Facebook.
+
+[horizontal]
+Contato do Professor:: iusenko@ime.usp.br
 
 === MAT0130 - Equações Diferenciais Ordinarias e Aplicações
 
@@ -198,16 +230,6 @@ Contato da Professora:: cueva@ime.usp.br
 
 == Departamento de Estatística
 
-=== MAE1511 - Estatística para Licenciatura I (Turma 42)
-
-Atividades suspensas até o retorno das aulas presenciais.
-
-Aguardando resposta do professor Marcos Magalhães quanto ao canal a ser adotado 
-para comunicação com as(os) estudantes durante o período de quarentena.
-
-[horizontal]
-Contato do Professor:: marcos@ime.usp.br
-
 === MAE0217 - Estatística Descritiva
 
 O professor Julio da Motta Singer optou por prosseguir com a disciplina 
@@ -218,6 +240,16 @@ link:https://www.ime.usp.br/~jmsinger/doku.php?id=mae0217[página da disciplina]
 
 [horizontal]
 Contato do Professor:: jmsinger@ime.usp.br
+
+=== MAE0221 - Probabilidade I
+
+O professor Fábio Machado adotou o e-disciplinas para prosseguir
+com a disciplina virtualmente, vide link:https://edisciplinas.usp.br/course/view.php?id=75811[página da disciplina.]
+
+Há informações também no link:https://www.ime.usp.br/~fmachado/MAE221/[site do professor.]
+
+[horizontal]
+Contato do Professor:: fmachado@ime.usp.br
 
 === MAE0314 - Análise Estatística
 
@@ -235,6 +267,16 @@ seguinte forma:
 [horizontal]
 Contato da Professora:: vivig@ime.usp.br
 
+=== MAE1511 - Estatística para Licenciatura I (Turma 42)
+
+Atividades suspensas até o retorno das aulas presenciais.
+
+Aguardando resposta do professor Marcos Magalhães quanto ao canal a ser adotado 
+para comunicação com as(os) estudantes durante o período de quarentena.
+
+[horizontal]
+Contato do Professor:: marcos@ime.usp.br
+
 === MAE1514 - Estatística no Ensino Básico
 
 A professora Viviana Giampaoli seguirá com a disciplina de forma online da 
@@ -249,13 +291,29 @@ Contato da Professora:: vivig@ime.usp.br
 
 == Departamento de Ciência da Computação
 
-=== MAC0110 - Introdução à Computação para Licenciatura (Turma 42)
+=== MAC0110 - Introdução à Computação (Turma 42)
 
 O professor Denis Deratani Mauá dará continuidade a disciplina por meio de 
 vídeo-aulas e exercícios, usando o e-disciplinas.
 
 [horizontal]
 Contato do Professor:: ddm@ime.usp.br
+
+=== MAC0110 - Introdução à Computação (Turmas 41 e 51)
+
+Os professores Hitoshi e Coelho darão continuidade à disciplina da seguinte forma:
+
+. Aulas online via Google-Meet, no horário normal de aula;
+
+. As atividades no e-disciplinas seguem normalmente. 
+
+. As provinhas semanais serão passadas para uma plataforma virtual.
+
+[horizontal]
+Contato do Professor Hitoshi:: hitoshi@ime.usp.br
+
+[horizontal]
+Contato do Professor Coelho:: coelho@ime.usp.br
 
 === MAC0218 - Técnicas de Programação II
 
@@ -377,5 +435,5 @@ Atividades suspensas até o retorno das aulas.
 
 === EDM0400 - Educação especial, Surdos e Libras
 
-Atividades suspensas até o retorno das aulas.
+Atividades suspensas até o retorno das aulas. A comunicação tem sido feita via e-disciplinas.
 
