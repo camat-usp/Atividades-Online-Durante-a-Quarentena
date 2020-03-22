@@ -7,6 +7,7 @@ CAMat <camat.usp@gmail.com>
 :note-caption: Nota
 :icons: font
 :stylesheet: styles.css
+:hide-uri-scheme:
 
 Com a determinação da CRUESP, que suspendeu temporariamente as atividades 
 escolares presenciais a partir de terça-feira (17/03), passaram a ser adotadas 
@@ -20,18 +21,23 @@ As informações foram obtidas através de contato com professores via e-mail e
 resposta do formulário divulgado pelo CAMat à comunidade estudantil do IME. 
 Por isso, pedimos compreensão de todas(os) caso não encontrem neste documento 
 alguma disciplina ou informação específica. Caso queira colaborar com conteúdo, 
-link:https://qrgo.page.link/ENFtn[acesse o formulário].
+https://qrgo.page.link/ENFtn[acesse o formulário].
 
 O CAMat reforça que o e-mail institucional é o canal de comunicação comumente 
 utilizado pelos docentes e, portanto, em momento como este, mais do que antes, 
 se faz necessário o uso; cheque diariamente a sua caixa de entrada!
 
 [NOTE]
-Dúvidas? Leaia o https://camat-usp.github.io/Atividades-Online-Durante-a-Quarentena/faq.html[F.A.Q.]?
+Dúvidas? Leia o 
+https://camat-usp.github.io/Atividades-Online-Durante-a-Quarentena/faq.html[F.A.Q.]?
 
 [NOTE]
 Você não tem suporte técnico adequado para acompanhar as atividades?
-link:https://qrgo.page.link/DRMk5[Comunique o CAMat!]
+https://qrgo.page.link/DRMk5[Comunique o CAMat!]
+
+[NOTE]
+Quer contribuir com esse site? Acesse 
+https://github.com/camat-usp/Atividades-Online-Durante-a-Quarentena[nossa página no GitHub]!
 
 toc::[]
 
@@ -73,7 +79,7 @@ Contato da Professora:: brech@ime.usp.br
 
 O professor Eduardo do Nascimento Marcos dará continuidade ao calendário
 letivo por meio do e-disciplinas, vide 
-link:https://uspdigital.usp.br/jupiterweb/obterTurma?sgldis=MAT0120[página da disciplina],
+https://uspdigital.usp.br/jupiterweb/obterTurma?sgldis=MAT0120[página da disciplina],
 e do Stoa (rede social do e-disciplinas).
 
 [horizontal]
@@ -86,9 +92,11 @@ sobre a questão de aulas online. Para embasar a sua posição, o professor
 fez um questionário e espera que o máximo de estudantes matriculados(as)
 na disciplina respondam.
 
-Por hora, seguem disponível duas listas no link:https://www.ime.usp.br/~iusenko/ensino_2020_1/index.php[site do professor]
-e a comunicação ocorre por meio do https://www.facebook.com/groups/493792168235804/[grupo da disciplina] 
-no Facebook.
+Por hora, seguem disponível duas listas no 
+https://www.ime.usp.br/~iusenko/ensino_2020_1/index.php[site do professor] e a 
+comunicação ocorre por meio do 
+https://www.facebook.com/groups/493792168235804/[grupo da disciplina] no 
+Facebook.
 
 [horizontal]
 Contato do Professor:: iusenko@ime.usp.br
@@ -98,7 +106,7 @@ Contato do Professor:: iusenko@ime.usp.br
 O professor Antônio Luiz Pereira prossegue com o calendário letivo, utilizando
 as seguintes plataformas:
 
-. e-disciplinas para comunicação e disponibilização de material
+. e-disciplinas para comunicação e disponibilização de material.
 
 . Zoom para as aulas em si (vídeo-conferência).
 
@@ -118,7 +126,7 @@ Contato da Professora:: anajahn@ime.usp.br
 O professor Vyacheslav Futorny prosseguirá com a disciplina via Google-Meet.
 
 De acordo com informações do 
-link:https://www.ime.usp.br/~futorny/teaching.html[site do professor], as aulas 
+https://www.ime.usp.br/~futorny/teaching.html[site do professor], as aulas 
 online terão início quarta-feira (25/03),às 19:20. O link e código da sala no 
 Google-Meet será informado com 20 minutos de antecedência.
 
@@ -153,7 +161,7 @@ Contato da Professora:: leila@ime.usp.br
 === MAT0240 - Geometria e Desenho Geométrico II (Diurno)
 
 O professor Ricardo Bianconi prosseguirá com a disciplina disponibilizando a
-apostila do curso do link:https://www.ime.usp.br/mat/0240/[site da disciplina] 
+apostila do curso do https://www.ime.usp.br/mat/0240/[site da disciplina] 
 e mantendo contato via e-mail institucional.
 
 De acordo com as orientações do site, a P1 será mantida no dia 02/04 e será 
@@ -177,7 +185,7 @@ Contato do Professor:: shestak@ime.usp.br
 O professor Ricardo Bianconi continuará a disciplina virtualmente. A 
 comunicação entre professor e turma ocorre via e-mail institucional e as 
 disciplinas e exercícios estão sendo disponibilizadas no 
-link:https://www.ime.usp.br/~mat/0310/[site da disciplina].
+https://www.ime.usp.br/~mat/0310/[site da disciplina].
 
 De acordo com as orientações do site, a P1 será mantida no dia 30/03 e será 
 aplicada virtualmente tendo as(os) estudantes de 10:00 às 20:00 (horário de 
@@ -188,34 +196,39 @@ Contato do Professor:: bianconi@ime.usp.br
 
 === MAT0317 - Topologia
 
-O professor Pierluigi Benevieri atualizará as notas de aula em seu link:https://www.ime.usp.br/~pluigi/MAT0317.html[site],
-contudo reitera que os conteúdos adicionados a partir da suspensão das aulas 
-serão retomados quando as aulas presenciais voltarem. Adoção de tal medida visa não
-prejudicar aqueles sem acesso à internet, segundo o professor.
+O professor Pierluigi Benevieri atualizará as notas de aula em seu 
+https://www.ime.usp.br/~pluigi/MAT0317.html[site], contudo reitera que os 
+conteúdos adicionados a partir da suspensão das aulas 
+serão retomados quando as aulas presenciais voltarem. A adoção de tal medida 
+visa não prejudicar aqueles sem acesso à internet, segundo o professor.
 
 [horizontal]
 Contato do Professor:: pluigi@ime.usp.br
 
 === MAT0334 - Análise Funcional
 
-A professora Mary Lilian Lourenço prosseguirá com a matéria por meio do e-disciplinas.
+A professora Mary Lilian Lourenço prosseguirá com a matéria por meio do 
+e-disciplinas.
 
 [horizontal]
 Contato da Professora:: mllouren@ime.usp.br
 
 === MAT0330 - Teoria dos Conjuntos
 
-O professor Artur Tomita optou por dar continuidade a disciplina. O material é disponibilizado
-via e-mail institucional e a comunicação e veiculação de demais informações
-está sendo mantida via https://www.facebook.com/groups/2533542590222237/[grupo da disciplina] no Facebook.
+O professor Artur Tomita optou por dar continuidade a disciplina. O material é 
+disponibilizado via e-mail institucional e a comunicação e veiculação de demais 
+informações está sendo mantida via 
+https://www.facebook.com/groups/2533542590222237/[grupo da disciplina] no 
+Facebook.
 
 [horizontal]
 Contato do Professor:: tomita@ime.usp.br
 
 === MAT0359 - Lógica
 
-O professor Rogério Fajardo dará continuidade à disciplina usando o Google Sala de Aula. O nome da sala é
-"Lógica - 2019" e o código de acesso está disponível no link:https://www.ime.usp.br/~fajardo/MAT359/[site do professor].
+O professor Rogério Fajardo dará continuidade à disciplina usando o Google 
+Sala de Aula. O nome da sala é _Lógica - 2019_ e o código de acesso está 
+disponível no https://www.ime.usp.br/~fajardo/MAT359/[site do professor].
 
 [horizontal]
 Contato do Professor:: fajardo@ime.usp.br
@@ -234,7 +247,7 @@ Contato do Professor:: alpereir@ime.usp.br
 Atividades suspensas até o retorno das aulas presenciais.
 
 Há três listas já disponibilizadas na 
-link:https://www.ime.usp.br/~dpdias/2020/MAT2351.html[página do professor].
+https://www.ime.usp.br/~dpdias/2020/MAT2351.html[página do professor].
 
 [horizontal]
 Contato do Professor:: dpdias@ime.usp.br
@@ -247,7 +260,7 @@ da seguinte forma:
 . e-disciplinas para o envio de questionário, exercícios e para comunicação 
   com a turma;
 
-. link:https://www.ime.usp.br/~danim/index.php?target=mat1500[Site da professora] 
+. https://www.ime.usp.br/~danim/index.php?target=mat1500[Site da professora] 
   para disponibilizar o material (questionário, exercícios) e o cronograma da 
   disciplina.
 
@@ -260,7 +273,7 @@ Atividades suspensas até o retorno das aulas presenciais.
 
 A professora Claudia Cueva Candido está mantendo o contato, para retirar 
 dúvidas e compartilhar informações, com as(os) estudantes por meio do 
-Google-Meet e link:https://zoom.us[Zoom].
+Google-Meet e https://zoom.us[Zoom].
 
 [horizontal]
 Contato da Professora:: cueva@ime.usp.br
@@ -271,9 +284,7 @@ Contato da Professora:: cueva@ime.usp.br
 
 O professor Julio da Motta Singer optou por prosseguir com a disciplina 
 utilizando o Google-Meet. A comunicação com a turma está sendo feito através 
-da 
-link:https://www.ime.usp.br/~jmsinger/doku.php?id=mae0217[página da disciplina]
-.
+da https://www.ime.usp.br/~jmsinger/doku.php?id=mae0217[página da disciplina].
 
 [horizontal]
 Contato do Professor:: jmsinger@ime.usp.br
@@ -281,9 +292,11 @@ Contato do Professor:: jmsinger@ime.usp.br
 === MAE0221 - Probabilidade I
 
 O professor Fábio Machado adotou o e-disciplinas para prosseguir
-com a disciplina virtualmente, vide link:https://edisciplinas.usp.br/course/view.php?id=75811[página da disciplina.]
+com a disciplina virtualmente, vide 
+https://edisciplinas.usp.br/course/view.php?id=75811[página da disciplina].
 
-Há informações também no link:https://www.ime.usp.br/~fmachado/MAE221/[site do professor.]
+Há informações também no 
+https://www.ime.usp.br/~fmachado/MAE221/[site do professor].
 
 [horizontal]
 Contato do Professor:: fmachado@ime.usp.br
@@ -338,9 +351,10 @@ Contato do Professor:: ddm@ime.usp.br
 
 === MAC0110 - Introdução à Computação (Turmas 41 e 51)
 
-Os professores Hitoshi e Coelho darão continuidade à disciplina da seguinte forma:
+Os professores Hitoshi e Coelho darão continuidade à disciplina da seguinte 
+forma:
 
-. Aulas online via Google-Meet, no horário normal de aula;
+. Aulas online via Google-Meet, no horário normal de aula.
 
 . As atividades no e-disciplinas seguem normalmente. 
 
@@ -383,7 +397,7 @@ Contato do Professor:: cef@ime.usp.br
 
 O professor Routo Terada prosseguirá o calendário letivo com aulas onlines 
 através do Google-Meet. O link é disponibilizado um pouco antes do horário de 
-aula no link:https://paca.ime.usp.br/login/index.php[PACA].
+aula no https://paca.ime.usp.br/login/index.php[PACA].
 
 Para dúvidas e demais informações, há um grupo da disciplina no Telegram: 
 t.me/cripto2020ime
@@ -401,8 +415,9 @@ Contato do Professor:: mfinger@ime.usp.br
 
 === MAC0427 - Otimização não Linear (Turma 44)
 
-O professor Leônidas de Oliveira Brandão optou por continuar com a matéria virtualmente,
-consulte a link:https://edisciplinas.usp.br/course/view.php?id=74359[página no e-disciplina.]
+O professor Leônidas de Oliveira Brandão optou por continuar com a matéria 
+virtualmente, consulte a 
+https://edisciplinas.usp.br/course/view.php?id=74359[página no e-disciplina].
 
 [horizontal]
 Contato do Professor:: leo@ime.usp.br
@@ -411,7 +426,7 @@ Contato do Professor:: leo@ime.usp.br
 
 O professor afirma que "`continua a dar aulas online, sem grandes 
 planejamentos`". Mais informações podem ser encontradas no 
-link:https://paca.ime.usp.br/course/view.php?id=1500[PACA].
+https://paca.ime.usp.br/course/view.php?id=1500[PACA].
 
 [horizontal]
 Contato do Professor:: ghaeser@ime.usp.br
@@ -466,7 +481,7 @@ Contato do Professor: jstern@ime.usp.br
 
 Os professores Nelson Kuhl e Sergio Muniz unificaram as Turmas 44 e 54. A 
 disciplina prosseguirá com calendário letivo através do 
-link:https://edisciplinas.usp.br/course/view.php?id=75932[e-disciplinas].
+https://edisciplinas.usp.br/course/view.php?id=75932[e-disciplinas].
 
 Os professores pedem para àqueles que ainda não acessaram o e-disciplina então 
 o façam e respondam a mensagem que foi enviada.
@@ -487,5 +502,6 @@ Atividades suspensas até o retorno das aulas.
 
 === EDM0400 - Educação especial, Surdos e Libras
 
-Atividades suspensas até o retorno das aulas. A comunicação tem sido feita via e-disciplinas.
+Atividades suspensas até o retorno das aulas. A comunicação tem sido feita via 
+e-disciplinas.
 
