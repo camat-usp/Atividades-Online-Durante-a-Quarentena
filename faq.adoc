@@ -10,7 +10,7 @@ CAMat <camat.usp@gmail.com>
 
 == Como acessar o e-disciplinas?
 
-O e-disciplinas, ou moodle, pode ser acessado através do link: 
+O e-disciplinas, ou moodle, pode ser acessado através do  
 http://www.e-disciplinas.usp.br/acessar com o e-mail institucional (@usp.br) 
 ou número USP e senha única. 
 
