@@ -1,6 +1,5 @@
 = Atividades Online Durante a Quarentena
 CAMat <camat.usp@gmail.com>
-19-03-2020
 :favicon: ./favicon.svg
 :toc: macro
 :toc-title: Conteúdos
@@ -150,6 +149,19 @@ https://meet.google.com/ngw-avbe-asi
 [horizontal]
 Contato do Professor:: sazanata@ime.usp.br
 
+=== MAT0206 - Análise Real
+
+O professor Humberto Carrión ainda não tomou uma decisão a respeito de 
+como irá dar continuidade ao curso, porém afirma ter a intenção de proseguir 
+com aulas e atividades à distância.
+
+O professor se diz aberto a sugestões e pretende postar video-aulas no 
+YouTube. A comunicação com os estudantes é dada pelo 
+https://analisisrealhc.blogspot.com[blog pessoal do professor].
+
+[horizontal]
+Contato do Professor:: leinad@ime.usp.br
+
 === MAT0231 - Àlgebra II para Licenciatura
 
 A professora Leila Vasconcellos pretende disponibilizar atividades online no 
@@ -207,8 +219,11 @@ Contato do Professor:: pluigi@ime.usp.br
 
 === MAT0334 - Análise Funcional
 
-A professora Mary Lilian Lourenço prosseguirá com a matéria por meio do 
-e-disciplinas.
+A professora Mary Lilian Lourenço afirma não ter a intenção de ministrar 
+aulas à distância, optando concluir a disciplina de forma presencial se 
+possível.
+
+Além disso, a professora disponibilizou tarefas aos alunos no e-disciplinas.
 
 [horizontal]
 Contato da Professora:: mllouren@ime.usp.br
@@ -278,6 +293,17 @@ Google-Meet e https://zoom.us[Zoom].
 [horizontal]
 Contato da Professora:: cueva@ime.usp.br
 
+=== MAT5721 - Análise Funcional
+
+A professora Mary Lilian Lourenço afirma não ter a intenção de ministrar 
+aulas à distância, optando concluir a disciplina de forma presencial se 
+possível.
+
+Além disso, a professora disponibilizou tarefas aos alunos no e-disciplinas.
+
+[horizontal]
+Contato da Professora:: mllouren@ime.usp.br
+
 == Departamento de Estatística
 
 === MAE0217 - Estatística Descritiva
@@ -316,6 +342,14 @@ seguinte forma:
 
 [horizontal]
 Contato da Professora:: vivig@ime.usp.br
+
+=== MAE0512 - Biometria
+
+O professor Julio da Motta Singer proseguirá com as atividades da disciplina 
+via Google-Meet.
+
+[horizontal]
+Contato do Professor:: jmsinger@ime.usp.br
 
 === MAE1511 - Estatística para Licenciatura I (Turma 42)
 
@@ -466,7 +500,16 @@ Contato do Professor:: alexandre.roma@gmail.com
 
 === MAP0216 - Introdução à Análise Real
 
-Atividades suspensas até o retorno das aulas.
+O professor Humberto Carrión ainda não tomou uma decisão a respeito de 
+como irá dar continuidade ao curso, porém afirma ter a intenção de proseguir 
+com aulas e atividades à distância.
+
+O professor se diz aberto a sugestões e pretende postar video-aulas no 
+YouTube. A comunicação com os estudantes é dada pelo 
+https://analisisrealhc.blogspot.com[blog pessoal do professor].
+
+[horizontal]
+Contato do Professor:: leinad@ime.usp.br
 
 === MAP2212 - Laboratório de Computação e Simulação
 

@@ -1,6 +1,5 @@
 = Perguntas Frequentes
 CAMat <camat.usp@gmail.com>
-19-03-2020
 :favicon: ./favicon.svg
 :toc: macro
 :toc-title: Conteúdos
