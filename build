@@ -11,5 +11,6 @@
 # Para instalar o `asciidoctor-pdf` siga às instruções em 
 # https://github.com/asciidoctor/asciidoctor-pdf#install-the-published-gem.
 
-aciidoctor -b html -o index.html informes.adoc
-aciidoctor-pdf -b pdf -o informes.pdf informes.adoc
+asciidoctor -b html -o index.html index.adoc
+asciidoctor -b html -o faq.html faq.adoc
+asciidoctor-pdf -b pdf -o informes.pdf index.adoc
