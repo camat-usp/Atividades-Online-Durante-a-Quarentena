@@ -8,6 +8,10 @@ CAMat <camat.usp@gmail.com>
 :icons: font
 :stylesheet: styles.css
 
+[NOTE]
+Quer contribuir com esse site? Acesse 
+https://github.com/camat-usp/Atividades-Online-Durante-a-Quarentena[nossa página no GitHub]!
+
 == Como acessar o e-disciplinas?
 
 O e-disciplinas, ou moodle, pode ser acessado através do  

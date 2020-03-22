@@ -34,6 +34,10 @@ https://camat-usp.github.io/Atividades-Online-Durante-a-Quarentena/faq.html[F.A.
 Você não tem suporte técnico adequado para acompanhar as atividades?
 https://qrgo.page.link/DRMk5[Comunique o CAMat!]
 
+[NOTE]
+Quer contribuir com esse site? Acesse 
+https://github.com/camat-usp/Atividades-Online-Durante-a-Quarentena[nossa página no GitHub]!
+
 toc::[]
 
 == Departamento de Matemática
