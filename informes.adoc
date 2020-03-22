@@ -186,6 +186,40 @@ Brasília) para enviar as respostas via e-mail.
 [horizontal]
 Contato do Professor:: bianconi@ime.usp.br
 
+=== MAT0317 - Topologia
+
+O professor Pierluigi Benevieri atualizará as notas de aula em seu link:https://www.ime.usp.br/~pluigi/MAT0317.html[site],
+contudo reitera que os conteúdos adicionados a partir da suspensão das aulas 
+serão retomados quando as aulas presenciais voltarem. Adoção de tal medida visa não
+prejudicar aqueles sem acesso à internet, segundo o professor.
+
+[horizontal]
+Contato do Professor:: pluigi@ime.usp.br
+
+=== MAT0334 - Análise Funcional
+
+A professora Mary Lilian Lourenço prosseguirá com a matéria por meio do e-disciplinas.
+
+[horizontal]
+Contato da Professora:: mllouren@ime.usp.br
+
+=== MAT0330 - Teoria dos Conjuntos
+
+O professor Artur Tomita optou por dar continuidade a disciplina. O material é disponibilizado
+via e-mail institucional e a comunicação e veiculação de demais informações
+está sendo mantida via https://www.facebook.com/groups/2533542590222237/[grupo da disciplina] no Facebook.
+
+[horizontal]
+Contato do Professor:: tomita@ime.usp.br
+
+=== MAT0359 - Lógica
+
+O professor Rogério Fajardo dará continuidade à disciplina usando o Google Sala de Aula. O nome da sala é
+"Lógica - 2019" e o código de acesso está disponível no link:https://www.ime.usp.br/~fajardo/MAT359/[site do professor].
+
+[horizontal]
+Contato do Professor:: fajardo@ime.usp.br
+
 === MAT0450 - Seminário de Resolução de Problemas
 
 Atividades suspensas até o retorno das aulas presenciais.
@@ -365,7 +399,15 @@ Google-Meet.
 [horizontal]
 Contato do Professor:: mfinger@ime.usp.br
 
-=== MAC0427 - Otimização não Linear (Noturno)
+=== MAC0427 - Otimização não Linear (Turma 44)
+
+O professor Leônidas de Oliveira Brandão optou por continuar com a matéria virtualmente,
+consulte a link:https://edisciplinas.usp.br/course/view.php?id=74359[página no e-disciplina.]
+
+[horizontal]
+Contato do Professor:: leo@ime.usp.br
+
+=== MAC0427 - Otimização não Linear (Turma 54)
 
 O professor afirma que "`continua a dar aulas online, sem grandes 
 planejamentos`". Mais informações podem ser encontradas no 
@@ -385,6 +427,13 @@ plataformas:
 
 [horizontal]
 Contato da Professora:: kellyrb@ime.usp.br
+
+=== MAC0458 - Direito e Software
+
+O professor José Coelho prosseguirá com a disciplina por meio do Google-Meet.
+
+[horizontal]
+Contato do Professor:: coelho@ime.usp.br
 
 == Departamento de Matemática Aplicada
 
