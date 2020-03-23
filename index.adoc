@@ -257,17 +257,7 @@ Comunicação com as(os) estudantes sendo feito via e-disciplinas.
 [horizontal]
 Contato do Professor:: alpereir@ime.usp.br
 
-=== MAT2351 - Cálculo para Funções de Várias Variáveis I (Turmas 22 e 47)
-
-Atividades suspensas até o retorno das aulas presenciais.
-
-Há três listas já disponibilizadas na 
-https://www.ime.usp.br/~dpdias/2020/MAT2351.html[página do professor].
-
-[horizontal]
-Contato do Professor:: dpdias@ime.usp.br
-
-=== MAT1500 - Projetos de Estágio (Turma 42)
+=== MAT1500 - Projetos de Estágio (Turmas 42 e 48)
 
 A professora Daniela Mariz prossegue com as atividades de maneira online
 da seguinte forma:
@@ -276,11 +266,22 @@ da seguinte forma:
   com a turma;
 
 . https://www.ime.usp.br/~danim/index.php?target=mat1500[Site da professora] 
-  para disponibilizar o material (questionário, exercícios) e o cronograma da 
+  para disponibilizar material (textos, exercícios) e o cronograma da 
   disciplina.
+
+Em e-mail, a professora avisou que pretende enviar textos para leitura e resenha, dando
+prazos estendidos para entrega visando não sobrecarregá-los
 
 [horizontal]
 Contato da Professora: danim@ime.usp.br
+
+=== MAT1513 - Laboratório de Matemática (Turmas 47 e 48)
+
+A professora Daniela Mariz prosseguirá com a matéria via e-disciplina. Contudo, segundo a própria,
+com menos conteúdo e cobranças, disponibilizando material somente nos dias da aula.
+
+[horizontal]
+Contato da Professora:: danim@ime.usp.br
 
 === MAT2351 - Cálculo para Funções de Várias Variáveis I (Turma 42)
 
@@ -292,6 +293,16 @@ Google-Meet e https://zoom.us[Zoom].
 
 [horizontal]
 Contato da Professora:: cueva@ime.usp.br
+
+=== MAT2351 - Cálculo para Funções de Várias Variáveis I (Turmas 22 e 47)
+
+Atividades suspensas até o retorno das aulas presenciais.
+
+Há três listas já disponibilizadas na 
+https://www.ime.usp.br/~dpdias/2020/MAT2351.html[página do professor].
+
+[horizontal]
+Contato do Professor:: dpdias@ime.usp.br
 
 === MAT5721 - Análise Funcional
 
@@ -418,6 +429,20 @@ Alfredo Goldman dará continuidade às aulas.
 
 [horizontal]
 Contato do Professor:: gold@ime.usp.br
+
+=== MAC0317 - Introdução ao Processamento de Sinais Digitais
+
+O professor Marcelo Queiroz dará continuidade às atividades de forma online
+via e-disciplina. Segundo o próprio, tal medida visa respeitar uma enquete (anônima) na qual 100%
+das(os) participantes manifestaram concordância com esse modelo, "`vale ressaltar 
+que esse total corresponde a alunos que participaram de alguma atividade presencial 
+nas 2 primeiras semanas`".
+
+Consulte a link:https://edisciplinas.usp.br/course/view.php?id=74173[página da disciplina], 
+as aulas online são integradas ao e-disciplinas, acessíveis por um link interno.
+
+[horizontal]
+Contato do Professor:: mqz@ime.usp.br
 
 === MAC0323 - Algoritmos e Estruturas de Dados II
 
