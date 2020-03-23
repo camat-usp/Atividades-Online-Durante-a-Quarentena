@@ -42,6 +42,18 @@ toc::[]
 
 == Departamento de Matemática
 
+=== MAT0105 - Geometria Analítica (Turma 47 e 48)
+
+O professor Vyacheslav Futorny prosseguirá com a disciplina via Google-Meet.
+
+De acordo com informações do 
+https://www.ime.usp.br/~futorny/teaching.html[site do professor], as aulas 
+online terão início quarta-feira (25/03),às 19:20. O link e código da sala no 
+Google-Meet será informado com 20 minutos de antecedência.
+
+[horizontal]
+Contato do Professor:: futorny@ime.usp.br
+
 === MAT0112 - Vetores e Geometria (Turmas 21 e 46)
 
 O professor Ivan Struchiner tem a intenção de repor todas as aulas de 
@@ -77,25 +89,39 @@ Contato da Professora:: brech@ime.usp.br
 === MAT0120 - Álgebra I para Licenciatura (Turmas 42 e 48)
 
 O professor Eduardo do Nascimento Marcos dará continuidade ao calendário
-letivo por meio do e-disciplinas, vide 
+letivo, da seguinte forma:
+
+. Será usada a plataforma ZOOM (zoom.us) às aulas virtuais. Elas acontecerão 
+no período normal: 
+* Aulas do diurno (T42): terças, às 10h, e quintas, às 8h;
+* Aulas do noturno (T48): terças e quintas, das 19h às 21h.
+
+. Para os informes, continuará sendo usado e-disciplinas, vide 
 https://uspdigital.usp.br/jupiterweb/obterTurma?sgldis=MAT0120[página da disciplina],
-e do Stoa (rede social do e-disciplinas).
 
 [horizontal]
 Contato do Professor:: enmarcos@ime.usp.br
 
 === MAT0120 - Álgebra I para Licenciatura (Turma 47)
 
-O professor Kostiantyn Iusenko ainda não expressou posicionamento final
-sobre a questão de aulas online. Para embasar a sua posição, o professor
-fez um questionário e espera que o máximo de estudantes matriculados(as)
-na disciplina respondam.
+O professor Kostiantyn Iusenko, respeitando uma enquete (anônima) realizada 
+entre os(as) estudantes da disciplina, seguirá com a disciplina da
+seguinte forma:
 
-Por hora, seguem disponível duas listas no 
-https://www.ime.usp.br/~iusenko/ensino_2020_1/index.php[site do professor] e a 
-comunicação ocorre por meio do 
-https://www.facebook.com/groups/493792168235804/[grupo da disciplina] no 
-Facebook.
+. A cada semana será postado, no e-disciplinas e no link:https://www.ime.usp.br/~iusenko/ensino_2020_1/[site do professor],
+dois arquivos .pdf com as anotações das aulas. 
+
+. Às terças e sextas (entre 19:20-21:00), o professor estará disponível num chat,
+disponível no e-disciplinas, para tirar dúvidas sobre o conteúdo e, caso precisar,
+para resolver alguns exercícios.
+
+. O monitor da disciplina irá agendar monitorias online para resolução dos exercícios. 
+
+O professor ressalta que, a partir de meados de abril, irá examinar
+o funcionamento do sistema adotado, eventualmente podendo se agregar outras formas de comunicação.
+
+No site e no e-disciplinas, já tem disponível 2 arquivos .pdf. O primeiro chat está agendado 
+para dia 24/03, às 19:20.
 
 [horizontal]
 Contato do Professor:: iusenko@ime.usp.br
@@ -120,18 +146,6 @@ e-disciplinas.
 [horizontal]
 Contato da Professora:: anajahn@ime.usp.br
 
-=== MAT0105 - Geometria Analítica (Turma 47 e 48)
-
-O professor Vyacheslav Futorny prosseguirá com a disciplina via Google-Meet.
-
-De acordo com informações do 
-https://www.ime.usp.br/~futorny/teaching.html[site do professor], as aulas 
-online terão início quarta-feira (25/03),às 19:20. O link e código da sala no 
-Google-Meet será informado com 20 minutos de antecedência.
-
-[horizontal]
-Contato do Professor:: futorny@ime.usp.br
-
 === MAT0164 - Números Inteiros: Uma Introdução à Matemática
 
 A professora Leila Vasconcellos pretende disponibilizar atividades online no 
@@ -151,13 +165,10 @@ Contato do Professor:: sazanata@ime.usp.br
 
 === MAT0206 - Análise Real
 
-O professor Humberto Carrión ainda não tomou uma decisão a respeito de 
-como irá dar continuidade ao curso, porém afirma ter a intenção de proseguir 
-com aulas e atividades à distância.
-
-O professor se diz aberto a sugestões e pretende postar video-aulas no 
-YouTube. A comunicação com os estudantes é dada pelo 
-https://analisisrealhc.blogspot.com[blog pessoal do professor].
+O professor Humberto Carrión prosseguirá com a disciplina de forma online. As 
+vídeo-aulas são disponibilizadas via Google Drive e posteriormente serão 
+postadas no youtube. Os links estão disponíveis no https://analisisrealhc.blogspot.com[blog pessoal do professor] 
+e devem ser acessados por meio do e-mail.
 
 [horizontal]
 Contato do Professor:: leinad@ime.usp.br
@@ -525,13 +536,10 @@ Contato do Professor:: alexandre.roma@gmail.com
 
 === MAP0216 - Introdução à Análise Real
 
-O professor Humberto Carrión ainda não tomou uma decisão a respeito de 
-como irá dar continuidade ao curso, porém afirma ter a intenção de proseguir 
-com aulas e atividades à distância.
-
-O professor se diz aberto a sugestões e pretende postar video-aulas no 
-YouTube. A comunicação com os estudantes é dada pelo 
-https://analisisrealhc.blogspot.com[blog pessoal do professor].
+O professor Humberto Carrión prosseguirá com a disciplina de forma online. As 
+vídeo-aulas são disponibilizadas via Google Drive e posteriormente serão 
+postadas no youtube. Os links estão disponíveis no https://analisisrealhc.blogspot.com[blog pessoal do professor] 
+e devem ser acessados por meio do e-mail.
 
 [horizontal]
 Contato do Professor:: leinad@ime.usp.br
