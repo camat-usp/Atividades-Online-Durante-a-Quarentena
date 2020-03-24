@@ -54,6 +54,17 @@ Google Meet será informado com 20 minutos de antecedência.
 [horizontal]
 Contato do Professor:: futorny@ime.usp.br
 
+=== MAT0111 - Cálculo Diferencial e Integral I (Turma 46)
+
+A professora Lucia Junqueira disponibilizará material por escrito (texto e exercícios) 
+para as(os) estudantes no e-disciplinas e, no dia 25/03, terá a primeira
+tentativa de conversa com estudantes via Google Meet. Entretanto, reforça que não controlará 
+presença e nem dará atividades que valem nota. A professora espera ter
+possibilidade de repor as aulas presencialmente.
+
+[horizontal]
+Contato da Professora:: lucia@ime.usp.br
+
 === MAT0112 - Vetores e Geometria (Turmas 21 e 46)
 
 O professor Ivan Struchiner tem a intenção de repor todas as aulas de 
