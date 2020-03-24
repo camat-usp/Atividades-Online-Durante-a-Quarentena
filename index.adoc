@@ -54,6 +54,21 @@ Google Meet será informado com 20 minutos de antecedência.
 [horizontal]
 Contato do Professor:: futorny@ime.usp.br
 
+=== MAT0105 - Geometria Analítica (Turma 22 - Instituto de Física)
+
+A professora Nataliia Goloshchapova prosseguirá com a disciplina da seguinte forma:
+
+. Principalmente, irá postar, duas vezes por semana, arquivos .pdf das aulas na 
+link:https://www.ime.usp.br/~nataliia/ensino_2020_1/[página do curso]; 
+
+. Há um link:https://www.facebook.com/groups/526537654648603/[grupo da disciplina] no Facebook em 
+que os(as) estudantes podem tirar dúvidas, com a professora ou com monitor da disciplina;
+
+. Caso for necessário, fará uso do Google Meet.
+
+[horizontal]
+Contato da Professora:: nataliia@ime.usp.br
+
 === MAT0111 - Cálculo Diferencial e Integral I (Turma 46)
 
 A professora Lucia Junqueira disponibilizará material por escrito (texto e exercícios) 
@@ -268,9 +283,12 @@ Contato do Professor:: tomita@ime.usp.br
 
 === MAT0359 - Lógica
 
-O professor Rogério Fajardo dará continuidade à disciplina usando o Google 
-Sala de Aula. O nome da sala é _Lógica - 2019_ e o código de acesso está 
-disponível no https://www.ime.usp.br/~fajardo/MAT359/[site do professor].
+O professor Rogério Fajardo dará continuidade à disciplina, apenas na parte de 
+Lógica Proposicional, por meio do Google Sala de Aula. O nome da sala é _Lógica - 2019_ e 
+o código de acesso está disponível no https://www.ime.usp.br/~fajardo/MAT359/[site do professor].
+
+Além disso, uma das três provas será substituida por uma lista de exercícios e, fora o Google 
+Sala de Aula, a comunicação está sendo feita via e-mail institucional.
 
 [horizontal]
 Contato do Professor:: fajardo@ime.usp.br
@@ -294,6 +312,19 @@ visando abrir um canal em que se possa tirar dúvidas sobre a matéria já minis
 
 [horizontal]
 Contato da Professora:: lucilia@ime.usp.br
+
+=== MAT1351 - Cálculo para Funções de Uma Variável Real I (Turma 48)
+
+O professor Rogério Fajardo prosseguirá com a disciplina visando apenas 
+completar a parte de Pré-Cálculo da ementa, portanto sem avançar significamente 
+na matéria. Para tal, utilizará o Google Sala de Aula como ambiente prioritário. 
+
+Durante este período de quarentena, o professor também pretende continuar o contato 
+com os(as) estudantes para tirar dúvidas, enviar material didático, elaborar e
+corrigir listas. Mais informações, consulte o link:https://www.ime.usp.br/~fajardo/MAT1351/[site do professor].
+
+[horizontal]
+Contato do Professor: fajardo@ime.usp.br
 
 === MAT1500 - Projetos de Estágio (Turmas 42 e 48)
 
@@ -354,6 +385,15 @@ Além disso, a professora disponibilizou tarefas aos alunos no e-disciplinas.
 [horizontal]
 Contato da Professora:: mllouren@ime.usp.br
 
+=== MAT6201 - Teoria Espectral dos Operadores nos Espaços de Banach
+
+A professora Nataliia Goloshchapova dará continuidade à disciplina por meio virtual. 
+Para mais informações, acesse a link:https://www.ime.usp.br/~nataliia/ensino_2020_1_TE/[página da disciplina] ou 
+o link:https://www.facebook.com/groups/234148324393372/[grupo da disciplina] no Facebook.
+
+[horizontal]
+Contato da Professora:: nataliia@ime.usp.br
+
 == Departamento de Estatística
 
 === MAE0217 - Estatística Descritiva
@@ -393,6 +433,15 @@ seguinte forma:
 [horizontal]
 Contato da Professora:: vivig@ime.usp.br
 
+=== MAE0399 - Análise de Dados e Simulação
+
+A professora Márcia Branco dará prosseguimento a disciplina através de aulas online 
+via Google Meet. O material utilizado é disponibilizado via e-disciplinas e a comunicação mantida 
+via e-mail institucional.
+
+[horizontal]
+Contato da Professora:: mbranco@ime.usp.br
+
 === MAE0512 - Biometria
 
 O professor Julio da Motta Singer proseguirá com as atividades da disciplina 
@@ -422,6 +471,18 @@ seguinte forma:
 
 [horizontal]
 Contato da Professora:: vivig@ime.usp.br
+
+=== MAE5702 - Probabilidade e Inferência Estatística I
+
+O professor Alexandre Patriota prosseguirá com a disciplina por meio do 
+Google Meet. As aulas serão gravadas e depois disponibilizadas via Google Drive 
+a ser acessado mediante e-mail institucional. 
+
+O link de acesso a sala no Google Meet e demais materiais pode ser encontrado na 
+link:https://www.ime.usp.br/~patriota/MAE5702.html[página do curso].
+
+[horizontal]
+Contato do Professor:: patriota@ime.usp.br
 
 == Departamento de Ciência da Computação
 
