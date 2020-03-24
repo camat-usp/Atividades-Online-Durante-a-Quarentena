@@ -44,12 +44,12 @@ toc::[]
 
 === MAT0105 - Geometria Analítica (Turma 47 e 48)
 
-O professor Vyacheslav Futorny prosseguirá com a disciplina via Google-Meet.
+O professor Vyacheslav Futorny prosseguirá com a disciplina via Google Meet.
 
 De acordo com informações do 
 https://www.ime.usp.br/~futorny/teaching.html[site do professor], as aulas 
 online terão início quarta-feira (25/03),às 19:20. O link e código da sala no 
-Google-Meet será informado com 20 minutos de antecedência.
+Google Meet será informado com 20 minutos de antecedência.
 
 [horizontal]
 Contato do Professor:: futorny@ime.usp.br
@@ -64,7 +64,7 @@ online.
 O professor afirma que está considerando as sequintes alternativas e que está
 aberto a sugestões:
 
-. Reuniões via Google Meets. As reuniões serão gravadas e disponibilizadas para 
+. Reuniões via Google Meet. As reuniões serão gravadas e disponibilizadas para 
   os alunos.
 
 . Escrever textos, notas de aulas, resolução de exercícios, etc. Esses textos 
@@ -300,7 +300,7 @@ Atividades suspensas até o retorno das aulas presenciais.
 
 A professora Claudia Cueva Candido está mantendo o contato, para retirar 
 dúvidas e compartilhar informações, com as(os) estudantes por meio do 
-Google-Meet e https://zoom.us[Zoom].
+Google Meet e https://zoom.us[Zoom].
 
 [horizontal]
 Contato da Professora:: cueva@ime.usp.br
@@ -331,7 +331,7 @@ Contato da Professora:: mllouren@ime.usp.br
 === MAE0217 - Estatística Descritiva
 
 O professor Julio da Motta Singer optou por prosseguir com a disciplina 
-utilizando o Google-Meet. A comunicação com a turma está sendo feito através 
+utilizando o Google Meet. A comunicação com a turma está sendo feito através 
 da https://www.ime.usp.br/~jmsinger/doku.php?id=mae0217[página da disciplina].
 
 [horizontal]
@@ -358,7 +358,7 @@ Atividades suspensas até o retorno das aulas.
 A professora Viviana Giampaoli seguirá com a disciplina de forma online da 
 seguinte forma:
 
-. Para as aulas usará o Google-Meet
+. Para as aulas usará o Google Meet
 
 . O material da disciplina será disponibilizado no e-desciplinas.
 
@@ -368,7 +368,7 @@ Contato da Professora:: vivig@ime.usp.br
 === MAE0512 - Biometria
 
 O professor Julio da Motta Singer proseguirá com as atividades da disciplina 
-via Google-Meet.
+via Google Meet.
 
 [horizontal]
 Contato do Professor:: jmsinger@ime.usp.br
@@ -388,7 +388,7 @@ Contato do Professor:: marcos@ime.usp.br
 A professora Viviana Giampaoli seguirá com a disciplina de forma online da 
 seguinte forma:
 
-. Para as aulas usará o Google-Meet
+. Para as aulas usará o Google Meet
 
 . O material da disciplina será disponibilizado no e-desciplinas.
 
@@ -410,7 +410,7 @@ Contato do Professor:: ddm@ime.usp.br
 Os professores Hitoshi e Coelho darão continuidade à disciplina da seguinte 
 forma:
 
-. Aulas online via Google-Meet, no horário normal de aula.
+. Aulas online via Google Meet, no horário normal de aula.
 
 . As atividades no e-disciplinas seguem normalmente. 
 
@@ -435,7 +435,7 @@ Contato do Professor:: gubi@ime.usp.br
 
 === MAC0219 - Programação Concorrente e Paralela
 
-Adotando o e-disciplinas e Google-Meet como alternativa online, o professor
+Adotando o e-disciplinas e Google Meet como alternativa online, o professor
 Alfredo Goldman dará continuidade às aulas.
 
 [horizontal]
@@ -458,7 +458,7 @@ Contato do Professor:: mqz@ime.usp.br
 === MAC0323 - Algoritmos e Estruturas de Dados II
 
 O professor Carlos Eduardo Ferreira prosseguirá com o calendário letivo da 
-disciplina por meio do Google-Meet.
+disciplina por meio do Google Meet.
 
 [horizontal]
 Contato do Professor:: cef@ime.usp.br
@@ -466,7 +466,7 @@ Contato do Professor:: cef@ime.usp.br
 === MAC0336 - Criptografia e Segurança de Dados
 
 O professor Routo Terada prosseguirá o calendário letivo com aulas onlines 
-através do Google-Meet. O link é disponibilizado um pouco antes do horário de 
+através do Google Meet. O link é disponibilizado um pouco antes do horário de 
 aula no https://paca.ime.usp.br/login/index.php[PACA].
 
 Para dúvidas e demais informações, há um grupo da disciplina no Telegram: 
@@ -490,7 +490,7 @@ Contato do Professor:: jef@ime.usp.br
 === MAC0425 - Inteligência Artificial
 
 O professor Marcelo Finger prosseguirá com atividades online, adotando o uso do 
-Google-Meet.
+Google Meet.
 
 [horizontal]
 Contato do Professor:: mfinger@ime.usp.br
@@ -520,14 +520,14 @@ plataformas:
 
 . e-disciplinas
 
-. https://meet.google.com/rpa-nvxe-uyb[Google-Meet]
+. https://meet.google.com/rpa-nvxe-uyb[Google Meet]
 
 [horizontal]
 Contato da Professora:: kellyrb@ime.usp.br
 
 === MAC0458 - Direito e Software
 
-O professor José Coelho prosseguirá com a disciplina por meio do Google-Meet.
+O professor José Coelho prosseguirá com a disciplina por meio do Google Meet.
 
 [horizontal]
 Contato do Professor:: coelho@ime.usp.br
@@ -592,4 +592,5 @@ Atividades suspensas até o retorno das aulas.
 
 Atividades suspensas até o retorno das aulas. A comunicação tem sido feita via 
 e-disciplinas.
+
 
