@@ -284,6 +284,17 @@ Comunicação com as(os) estudantes sendo feito via e-disciplinas.
 [horizontal]
 Contato do Professor:: alpereir@ime.usp.br
 
+=== MAT1351 - Cálculo para Funções de Uma Variável Real I (Turma 42)
+
+A professora Lucília Borsari não pretende dar continuidade à disciplina 
+na modalidade a distância e aguarda um calendário de reposição presencial.
+
+A professora tem estabelecido contato com as(os) estudantes via e-mail institucional 
+visando abrir um canal em que se possa tirar dúvidas sobre a matéria já ministrada.
+
+[horizontal]
+Contato da Professora:: lucilia@ime.usp.br
+
 === MAT1500 - Projetos de Estágio (Turmas 42 e 48)
 
 A professora Daniela Mariz prossegue com as atividades de maneira online
