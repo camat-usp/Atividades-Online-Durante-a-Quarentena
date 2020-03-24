@@ -475,6 +475,18 @@ t.me/cripto2020ime
 [horizontal]
 Contato do Professor:: rt@ime.usp.br
 
+=== MAC0350 - Introdução ao Desenvolvimento de Sistemas de Software
+
+O professor João Eduardo Ferreira continuará dando aulas, de maneira online. A
+disciplina aderiu ao break da semana do dia 23/03/2020, então o início das
+aulas virtuais foi adiado para 31/03/2020.
+
+O material já está e disponível no e-Disciplinas e os alunos podem fazer os
+exercícios das aulas anteriores.
+      
+[horizontal]
+Contato do Professor:: jef@ime.usp.br
+
 === MAC0425 - Inteligência Artificial
 
 O professor Marcelo Finger prosseguirá com atividades online, adotando o uso do 
