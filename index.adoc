@@ -109,8 +109,8 @@ entre os(as) estudantes da disciplina, seguirá com a disciplina da
 seguinte forma:
 
 . A cada semana será postado, no e-disciplinas e no 
-https://www.ime.usp.br/~iusenko/ensino_2020_1/[site do professor], dois arquivos 
-`.pdf` com as anotações das aulas. 
+https://www.ime.usp.br/~iusenko/ensino_2020_1/[site do professor], dois 
+arquivos PDF com as anotações das aulas. 
 
 . Às terças e sextas (entre 19:20-21:00), o professor estará disponível num 
 chat, disponível no e-disciplinas, para tirar dúvidas sobre o conteúdo e, caso 
@@ -123,7 +123,7 @@ O professor ressalta que, a partir de meados de abril, irá examinar o
 funcionamento do sistema adotado, eventualmente podendo se agregar outras formas 
 de comunicação.
 
-No site e no e-disciplinas, já tem disponível 2 arquivos .pdf. O primeiro chat 
+No site e no e-disciplinas, já tem disponível 2 arquivos PDF. O primeiro chat 
 está agendado para dia 24/03, às 19:20.
 
 [horizontal]
@@ -166,12 +166,14 @@ https://meet.google.com/ngw-avbe-asi
 [horizontal]
 Contato do Professor:: sazanata@ime.usp.br
 
+[[MAT0206]]
 === MAT0206 - Análise Real
 
 O professor Humberto Carrión prosseguirá com a disciplina de forma online. As 
 vídeo-aulas são disponibilizadas via Google Drive e posteriormente serão 
-postadas no youtube. Os links estão disponíveis no https://analisisrealhc.blogspot.com[blog pessoal do professor] 
-e devem ser acessados por meio do e-mail.
+postadas no youtube. Os links estão disponíveis no 
+https://analisisrealhc.blogspot.com[blog pessoal do professor] e devem ser 
+acessados por meio do e-mail.
 
 [horizontal]
 Contato do Professor:: leinad@ime.usp.br
@@ -283,16 +285,17 @@ da seguinte forma:
   para disponibilizar material (textos, exercícios) e o cronograma da 
   disciplina.
 
-Em e-mail, a professora avisou que pretende enviar textos para leitura e resenha, dando
-prazos estendidos para entrega visando não sobrecarregá-los
+Em e-mail, a professora avisou que pretende enviar textos para leitura e 
+resenha, dando prazos estendidos para entrega visando não sobrecarregá-los.
 
 [horizontal]
 Contato da Professora: danim@ime.usp.br
 
 === MAT1513 - Laboratório de Matemática (Turmas 47 e 48)
 
-A professora Daniela Mariz prosseguirá com a matéria via e-disciplina. Contudo, segundo a própria,
-com menos conteúdo e cobranças, disponibilizando material somente nos dias da aula.
+A professora Daniela Mariz prosseguirá com a matéria via e-disciplina. Contudo, 
+segundo a própria, com menos conteúdo e cobranças, disponibilizando material 
+somente nos dias da aula.
 
 [horizontal]
 Contato da Professora:: danim@ime.usp.br
@@ -447,13 +450,14 @@ Contato do Professor:: gold@ime.usp.br
 === MAC0317 - Introdução ao Processamento de Sinais Digitais
 
 O professor Marcelo Queiroz dará continuidade às atividades de forma online
-via e-disciplina. Segundo o próprio, tal medida visa respeitar uma enquete (anônima) na qual 100%
-das(os) participantes manifestaram concordância com esse modelo, "`vale ressaltar 
-que esse total corresponde a alunos que participaram de alguma atividade presencial 
-nas 2 primeiras semanas`".
+via e-disciplina. Segundo o próprio, tal medida visa respeitar uma enquete 
+(anônima) na qual 100% das(os) participantes manifestaram concordância com esse 
+modelo, "`vale ressaltar que esse total corresponde a alunos que participaram 
+de alguma atividade presencial nas 2 primeiras semanas`".
 
-Consulte a link:https://edisciplinas.usp.br/course/view.php?id=74173[página da disciplina], 
-as aulas online são integradas ao e-disciplinas, acessíveis por um link interno.
+Consulte a 
+https://edisciplinas.usp.br/course/view.php?id=74173[página da disciplina], as 
+aulas online são integradas ao e-disciplinas, acessíveis por um link interno.
 
 [horizontal]
 Contato do Professor:: mqz@ime.usp.br
@@ -551,13 +555,8 @@ Contato do Professor:: alexandre.roma@gmail.com
 
 === MAP0216 - Introdução à Análise Real
 
-O professor Humberto Carrión prosseguirá com a disciplina de forma online. As 
-vídeo-aulas são disponibilizadas via Google Drive e posteriormente serão 
-postadas no youtube. Os links estão disponíveis no https://analisisrealhc.blogspot.com[blog pessoal do professor] 
-e devem ser acessados por meio do e-mail.
-
-[horizontal]
-Contato do Professor:: leinad@ime.usp.br
+Favor ler o informe sobre a disciplina <<MAT0206>> para mais informações --
+é a mesma disciplina.
 
 === MAP2212 - Laboratório de Computação e Simulação
 
