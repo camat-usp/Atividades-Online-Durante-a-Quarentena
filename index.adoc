@@ -333,7 +333,7 @@ elaborar e corrigir listas. Mais informações, consulte o
 https://www.ime.usp.br/~fajardo/MAT1351/[site do professor].
 
 [horizontal]
-Contato do Professor: fajardo@ime.usp.br
+Contato do Professor:: fajardo@ime.usp.br
 
 === MAT1500 - Projetos de Estágio (Turmas 42 e 48)
 
@@ -351,7 +351,7 @@ Em e-mail, a professora avisou que pretende enviar textos para leitura e
 resenha, dando prazos estendidos para entrega visando não sobrecarregá-los.
 
 [horizontal]
-Contato da Professora: danim@ime.usp.br
+Contato da Professora:: danim@ime.usp.br
 
 === MAT1513 - Laboratório de Matemática (Turmas 47 e 48)
 
@@ -385,14 +385,8 @@ Contato do Professor:: dpdias@ime.usp.br
 
 === MAT5721 - Análise Funcional
 
-A professora Mary Lilian Lourenço afirma não ter a intenção de ministrar 
-aulas à distância, optando concluir a disciplina de forma presencial se 
-possível.
-
-Além disso, a professora disponibilizou tarefas aos alunos no e-disciplinas.
-
-[horizontal]
-Contato da Professora:: mllouren@ime.usp.br
+Favor ler o informe sobre a disciplina <<MAC0334>> para mais informações --
+é a mesma disciplina.
 
 === MAT6201 - Teoria Espectral dos Operadores nos Espaços de Banach
 
@@ -693,7 +687,7 @@ virtual. Utiliza o e-disciplinas para disponibilizar o material necessário a
 realização dos EP's.
 
 [horizontal]
-Contato do Professor: jstern@ime.usp.br
+Contato do Professor:: jstern@ime.usp.br
 
 === MAP2310 - Métodos Numéricos em Equações Diferenciais I
 
