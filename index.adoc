@@ -553,6 +553,20 @@ disciplina por meio do Google Meet.
 [horizontal]
 Contato do Professor:: cef@ime.usp.br
 
+=== MAC0327 - Desafios de Programação I
+
+A professora Cristina Fernandes dará continuidade à disciplina via Google Meet, acesse a 
+sala virtual através do link: https://meet.google.com/zht-asmy-bcz
+
+A professora afirma que "`durante a semana passada e esta semana, a carga de atividades foi diminuída`" 
+e que está avaliando a situação de perto "`para ajustar tanto a carga de atividades como o 
+critério de avaliação`". Além disso, no dia 24/03 adicionou, no e-disciplinas, uma enquete a fim de 
+obter mais informação sobre a condição dos(as) estudantes em continuar acompanhando as aulas da 
+maneira como as está disponibilizando. 
+
+[horizontal]
+Contato da Professora:: cris@ime.usp.br
+
 [[MAC0331]]
 === MAC0331 - Geometria Computacional
 
