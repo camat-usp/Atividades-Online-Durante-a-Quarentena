@@ -330,7 +330,7 @@ prioritário.
 Durante este período de quarentena, o professor também pretende continuar o 
 contato com os(as) estudantes para tirar dúvidas, enviar material didático, 
 elaborar e corrigir listas. Mais informações, consulte o 
-link:https://www.ime.usp.br/~fajardo/MAT1351/[site do professor].
+https://www.ime.usp.br/~fajardo/MAT1351/[site do professor].
 
 [horizontal]
 Contato do Professor: fajardo@ime.usp.br
@@ -490,7 +490,7 @@ Google Meet. As aulas serão gravadas e depois disponibilizadas via Google Drive
 a ser acessado mediante e-mail institucional. 
 
 O link de acesso a sala no Google Meet e demais materiais pode ser encontrado 
-na link:https://www.ime.usp.br/~patriota/MAE5702.html[página do curso].
+na https://www.ime.usp.br/~patriota/MAE5702.html[página do curso].
 
 [horizontal]
 Contato do Professor:: patriota@ime.usp.br
