@@ -161,12 +161,16 @@ Contato do Professor:: iusenko@ime.usp.br
 
 === MAT0130 - Equações Diferenciais Ordinarias e Aplicações
 
-O professor Antônio Luiz Pereira prossegue com o calendário letivo, utilizando
+O professor Antônio Luiz Pereira prossegue com as atividades que são possíveis, utilizando
 as seguintes plataformas:
 
 . e-disciplinas para comunicação e disponibilização de material.
 
 . Zoom para as aulas em si (vídeo-conferência).
+
+O professor reitera "`entendo que será necessário um período de tempo 
+difícil de avaliar agora para retomar e completar a disciplina presencialmente, 
+não pretendo transformar simplesmente em disciplina a distância`".
 
 [horizontal]
 Contato do Professor:: alpereir@ime.usp.br
@@ -301,9 +305,13 @@ Contato do Professor:: fajardo@ime.usp.br
 
 === MAT0450 - Seminário de Resolução de Problemas
 
-Atividades suspensas até o retorno das aulas presenciais.
+O professor Antônio Pereira prossegue com as atividades que são possíveis.
 
-Comunicação com as(os) estudantes sendo feito via e-disciplinas.
+A comunicação com as(os) estudantes sendo feito via e-disciplinas.
+
+O professor reitera "`entendo que será necessário um período de tempo 
+difícil de avaliar agora para retomar e completar a disciplina presencialmente, 
+não pretendo transformar simplesmente em disciplina a distância`"
 
 [horizontal]
 Contato do Professor:: alpereir@ime.usp.br
@@ -550,6 +558,20 @@ aulas online são integradas ao e-disciplinas, acessíveis por um link interno.
 [horizontal]
 Contato do Professor:: mqz@ime.usp.br
 
+=== MAC0321 - Laboratório de Programação Orientada a Objetos
+
+O professor Fábio Kon continuará ministrando o curso de forma online, da seguinte forma: 
+
+. O material didático está disponível na link:https://edisciplinas.usp.br/course/view.php?id=74433[página do curso] 
+no e-disciplinas; 
+
+. As aulas estarão disponíveis online no e-disciplinas e em https://www.youtube.com/playlist?list=PLTeQ2u81sjqfsFNWrUCIoqJZBSJrai8M7
+
+. Haverá exercícios para entrega via e-disciplinas e tiração de dúvidas pelo Fórum e, se desejável, Google Meet.
+
+[horizontal]
+Contato do Professor:: kon@ime.usp.br
+
 === MAC0323 - Algoritmos e Estruturas de Dados II
 
 O professor Carlos Eduardo Ferreira prosseguirá com o calendário letivo da 
@@ -610,6 +632,16 @@ exercícios das aulas anteriores.
       
 [horizontal]
 Contato do Professor:: jef@ime.usp.br
+
+=== MAC0375 - Biologia de Sistemas
+
+O professor Ronaldo Fumio Hashimoto continuará dando aulas, de maneira online através do 
+Google Meet. As aulas virtuais terão início em 31/03/2020.
+
+O material estará disponível no e-disciplinas.
+
+[horizontal]
+Contato do Professor:: ronaldo@ime.usp.br
 
 === MAC0425 - Inteligência Artificial
 
@@ -682,9 +714,7 @@ Favor ler o informe sobre a disciplina <<MAT0206>> para mais informações --
 
 === MAP2212 - Laboratório de Computação e Simulação
 
-O professor Julio Stern prossegue com o calendário letivo da disciplina de modo 
-virtual. Utiliza o e-disciplinas para disponibilizar o material necessário a 
-realização dos EP's.
+A pedido do professor Julio Stern, segue a mensagem:  
 
 [horizontal]
 Contato do Professor:: jstern@ime.usp.br
