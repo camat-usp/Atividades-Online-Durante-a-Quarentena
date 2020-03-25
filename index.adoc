@@ -553,6 +553,18 @@ disciplina por meio do Google Meet.
 [horizontal]
 Contato do Professor:: cef@ime.usp.br
 
+[[MAC0331]]
+=== MAC0331 - Geometria Computacional
+
+A professora Cristina Fernandes, a partir do dia 27 de março, dará continuidade 
+à disciplina via Google Meet, e a sala virtual pode ser acessada através do link: https://meet.google.com/vze-ybxa-wpx
+
+A comunicação com as(os) estudantes está sendo feita via e-mail institucional, e-disciplinas 
+e link:https://www.ime.usp.br/~cris/aulas/20_1_331/[site da professora].
+
+[horizontal]
+Contato da Professora:: cris@ime.usp.br
+
 === MAC0336 - Criptografia e Segurança de Dados
 
 O professor Routo Terada prosseguirá o calendário letivo com aulas onlines 
@@ -621,6 +633,11 @@ O professor José Coelho prosseguirá com a disciplina por meio do Google Meet.
 
 [horizontal]
 Contato do Professor:: coelho@ime.usp.br
+
+=== MAC5747 - Geometria Computacional
+
+Favor ler o informe sobre a disciplina <<MAC0331>> para mais informações --
+é a mesma disciplina.
 
 == Departamento de Matemática Aplicada
 
