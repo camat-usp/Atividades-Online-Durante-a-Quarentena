@@ -370,6 +370,56 @@ somente nos dias da aula.
 [horizontal]
 Contato da Professora:: danim@ime.usp.br
 
+=== MAT2351 - Cálculo para Funções de Várias Variáveis I (Turmas 22 e 47)
+
+O professor David Dias optou pela reposição presencial das aulas. No entanto, o 
+professor disponibilizou mais duas listas de exercicícios no 
+https://www.ime.usp.br/~dpdias/2020/MAT2351.html[site do curso] para alunos 
+interessados em seguir o curso à distância, além de formular um roteiro de 
+estudos.
+
+O roteiro de estudos está baseado no livro _H.L. Guidorizzi, Um curso de 
+Cálculo, vol. II, Editora LTC, 2001_ e nas aulas de graduação de Cálculo II da 
+Professora Martha Salerno Monteiro que estão disponiveis no portal 
+http://eaulas.usp.br/portal/home[eaulas]:
+
+[quote,David Pires Dias]
+____
+I:: 
+====
+Curvas no plano e no espaço, áreas em coordendas polares, comprimento de
+curva. Funções duas e três variáveis reais, curvas de nível e gráficos. Limite e
+continuidade.
+
+Aulas:: 3, 4, 5, 6, 17 e 18 (exercícios 7 e 8)
+Capítulos:: 7, 8 e 9
+====
+
+II:: 
+====
+Derivadas parciais e direcionais; diferenciabilidade, regra da cadeia e
+propriedades do gradiente.
+
+Aulas:: 9, 10, 11, 12, 13 e 14 (exercícios 15 e 16).
+Capítulos:: 10, 11, 12, 13 e 14.
+====
+
+III:: 
+====
+Polinômio de Taylor, máximos e mínimos e multiplicadores de Lagrange.
+
+Aulas:: 19, 20, 21, 22, 23 (exercícios 24 e 25)
+Capítulos:: 15 e 16.
+====
+____
+
+O monitor se encontra a disposição para esclarecer dúvidas pelo e-mail 
+ricardocanale@ime.usp.br e as novas datas de prova serão apresentadas assim que 
+restauradas as atividades presenciais.
+
+[horizontal]
+Contato do Professor:: dpdias@ime.usp.br
+
 === MAT2351 - Cálculo para Funções de Várias Variáveis I (Turma 42)
 
 Atividades suspensas até o retorno das aulas presenciais.
@@ -380,16 +430,6 @@ Google Meet e https://zoom.us[Zoom].
 
 [horizontal]
 Contato da Professora:: cueva@ime.usp.br
-
-=== MAT2351 - Cálculo para Funções de Várias Variáveis I (Turmas 22 e 47)
-
-Atividades suspensas até o retorno das aulas presenciais.
-
-Há três listas já disponibilizadas na 
-https://www.ime.usp.br/~dpdias/2020/MAT2351.html[página do professor].
-
-[horizontal]
-Contato do Professor:: dpdias@ime.usp.br
 
 === MAT5721 - Análise Funcional
 
