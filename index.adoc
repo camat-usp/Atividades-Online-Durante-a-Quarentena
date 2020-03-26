@@ -267,6 +267,7 @@ visa não prejudicar aqueles sem acesso à internet, segundo o professor.
 [horizontal]
 Contato do Professor:: pluigi@ime.usp.br
 
+[[MAT0334]]
 === MAT0334 - Análise Funcional
 
 A professora Mary Lilian Lourenço afirma não ter a intenção de ministrar 
@@ -433,7 +434,7 @@ Contato da Professora:: cueva@ime.usp.br
 
 === MAT5721 - Análise Funcional
 
-Favor ler o informe sobre a disciplina <<MAC0334>> para mais informações --
+Favor ler o informe sobre a disciplina <<MAT0334>> para mais informações --
 é a mesma disciplina.
 
 === MAT6201 - Teoria Espectral dos Operadores nos Espaços de Banach
