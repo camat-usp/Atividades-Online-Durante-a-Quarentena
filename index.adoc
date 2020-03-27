@@ -116,8 +116,18 @@ Contato do Professor:: ivanstru@gmail.com
 
 === MAT0112 - Vetores e Geometria (Turma 43)
 
-A professora Christina Brech pretende dar atividades onlines 
-pelo e-disciplinas durante o período da quarentena.
+A professora Christina Brech pretende repor as aulas presencialmente ao final 
+da quarentena e manter contato virtual com os alunos durante o período da quarentena. 
+
+Na plataforma e-disciplinas, serão disponibilizados alguns materiais - vídeos, 
+textos, exercícios - relacionados ao conteúdo visto nas aulas presenciais, além 
+de fóruns para troca de ideias, sugestões e dúvidas. Uma vez por semana, nas terças às 10h, 
+encontrará os estudantes por meio do Google Meet, com link disponibilizado no e-disciplinas. 
+
+Ressalta que nenhuma das atividades oferecidas durante a quarentena será utilizada 
+como forma de avaliação ou controle de frequência. Ao contrário, o objetivo é 
+auxiliar os alunos, que puderem e quiserem, a manterem uma rotina de estudos, 
+contato com a matéria e com seus colegas.
 
 [horizontal]
 Contato da Professora:: brech@ime.usp.br 
