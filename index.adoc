@@ -179,8 +179,8 @@ Contato do Professor:: iusenko@ime.usp.br
 
 === MAT0130 - Equações Diferenciais Ordinarias e Aplicações
 
-O professor Antônio Luiz Pereira prossegue com as atividades que são possíveis, utilizando
-as seguintes plataformas:
+O professor Antônio Luiz Pereira prossegue com as atividades que são possíveis, 
+utilizando as seguintes plataformas:
 
 . e-disciplinas para comunicação e disponibilização de material.
 
@@ -295,9 +295,10 @@ A professora Mary Lilian Lourenço afirma não ter a intenção de ministrar
 aulas à distância, contudo, por meio de textos disponibilizados no e-disciplinas, 
 tem dado sequência aos assuntos cuja abordagem é possível desta forma. 
 
-Além disso, a professora afirma que pretende concluir a disciplina de forma presencial, se 
-possível, e tal medida - .pdfs no e-disciplinas - foi adotada "`devido a falta de informação segura da PRG, se 
-teremos ou não chance de ministar de forma presencial`" após a volta da normalidade.
+Além disso, a professora afirma que pretende concluir a disciplina de forma 
+presencial, se possível, e tal medida -- .pdfs no e-disciplinas -- foi adotada 
+"`devido a falta de informação segura da PRG, se teremos ou não chance de 
+ministar de forma presencial`" após a volta da normalidade.
 
 [horizontal]
 Contato da Professora:: mllouren@ime.usp.br
@@ -466,10 +467,10 @@ Contato da Professora:: nataliia@ime.usp.br
 
 O professor Fábio Machado adotou o e-disciplinas para prosseguir
 com a disciplina virtualmente, vide 
-link:https://edisciplinas.usp.br/course/view.php?id=75806[página da disciplina].
+https://edisciplinas.usp.br/course/view.php?id=75806[página da disciplina].
 
 Há informações também no 
-link:https://www.ime.usp.br/~fmachado/MAE116/[site do professor].
+https://www.ime.usp.br/~fmachado/MAE116/[site do professor].
 
 [horizontal]
 Contato do Professor:: fmachado@ime.usp.br
@@ -499,10 +500,10 @@ Contato do Professor:: fmachado@ime.usp.br
 
 O professor Fábio Machado adotou o e-disciplinas para prosseguir
 com a disciplina virtualmente, vide 
-link:https://edisciplinas.usp.br/course/view.php?id=75810[página da disciplina].
+https://edisciplinas.usp.br/course/view.php?id=75810[página da disciplina].
 
 Há informações também no 
-link:https://www.ime.usp.br/~fmachado/MAE312/[site do professor].
+https://www.ime.usp.br/~fmachado/MAE312/[site do professor].
 
 [horizontal]
 Contato do Professor:: fmachado@ime.usp.br
@@ -637,14 +638,18 @@ Contato do Professor:: mqz@ime.usp.br
 
 === MAC0321 - Laboratório de Programação Orientada a Objetos
 
-O professor Fábio Kon continuará ministrando o curso de forma online, da seguinte forma: 
+O professor Fábio Kon continuará ministrando o curso de forma online, da 
+seguinte forma: 
 
-. O material didático está disponível na link:https://edisciplinas.usp.br/course/view.php?id=74433[página do curso] 
-no e-disciplinas; 
+. O material didático está disponível na 
+https://edisciplinas.usp.br/course/view.php?id=74433[página do curso] no 
+e-disciplinas.
 
-. As aulas estarão disponíveis online no e-disciplinas e em https://www.youtube.com/playlist?list=PLTeQ2u81sjqfsFNWrUCIoqJZBSJrai8M7
+. As aulas estarão disponíveis online no e-disciplinas e em 
+https://www.youtube.com/playlist?list=PLTeQ2u81sjqfsFNWrUCIoqJZBSJrai8M7.
 
-. Haverá exercícios para entrega via e-disciplinas e tiração de dúvidas pelo Fórum e, se desejável, Google Meet.
+. Haverá exercícios para entrega via e-disciplinas e tiração de dúvidas pelo 
+Fórum e, se desejável, Google Meet.
 
 [horizontal]
 Contato do Professor:: kon@ime.usp.br
@@ -712,8 +717,8 @@ Contato do Professor:: jef@ime.usp.br
 
 === MAC0375 - Biologia de Sistemas
 
-O professor Ronaldo Fumio Hashimoto continuará dando aulas, de maneira online através do 
-Google Meet. As aulas virtuais terão início em 31/03/2020.
+O professor Ronaldo Fumio Hashimoto continuará dando aulas, de maneira online 
+através do Google Meet. As aulas virtuais terão início em 31/03/2020.
 
 O material estará disponível no e-disciplinas.
 
@@ -788,6 +793,14 @@ Contato do Professor:: alexandre.roma@gmail.com
 
 Favor ler o informe sobre a disciplina <<MAT0206>> para mais informações --
 é a mesma disciplina.
+
+=== MAP0316 -  Equações Diferenciais Ordinárias II
+
+O professor Orlando Francisco Lopes dará proseguimento à disciplina via Google 
+Meet.
+
+[horizontal]
+Contato do Professor:: olopes@ime.usp.br
 
 === MAP2212 - Laboratório de Computação e Simulação
 
