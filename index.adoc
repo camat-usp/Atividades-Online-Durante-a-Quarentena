@@ -802,9 +802,14 @@ Meet.
 [horizontal]
 Contato do Professor:: olopes@ime.usp.br
 
-=== MAP2212 - Laboratório de Computação e Simulação
+=== MAP2110 - Modelagem Matemática
 
-A pedido do professor Julio Stern, segue a mensagem:  
+O professor Saulo Rabello disponibilizou listas de estudos no e-disciplinas e 
+abriu um forum para interação com as(os) estudantes -- também no e-disciplinas.
+
+Contato do Professor:: saulo@ime.usp.br
+
+=== MAP2212 - Laboratório de Computação e Simulação
 
 A pedido do professor, aqui consta seu comunicado enviado aos alunos:
 
