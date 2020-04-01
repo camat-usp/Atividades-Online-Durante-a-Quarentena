@@ -577,10 +577,48 @@ Contato do Professor:: patriota@ime.usp.br
 
 == Departamento de Ciência da Computação
 
+=== CCM0128 - Computação II
+
+O professor Yoshiharu Kohayakawa dará prosseguimento com as atividades a partir de 
+encontros virtuais, a serem realizados no mesmo horário que eram as aulas presenciais. 
+As ferramentas utilizadas serão: link:https://meet.google.com/ygx-zmyh-mgm[Google Meet], e-Disciplinas 
+e e-aulas.
+
+[horizontal]
+Contato do professor:: yoshi@ime.usp.br
+
+=== MAC0101 - Integração na Universidade e na Profissão
+
+O professor André Fujita prosseguirá com a disciplina através de encontros virtuais no 
+Google Meet no mesmo horário que eram as aulas presenciais. O link da sala virtual será divulgado 
+na página do curso no e-disciplinas.
+
+[horizontal]
+Contato do Professor:: fujita@ime.usp.br
+
+=== MAC0102 - Caminhos no Bacharelado em Ciência da Computação
+
+O professor Flavio Soares Correa dará continuidade a disciplina por meio de 
+encontros virtuais no Google Meet no mesmo horário que eram as aulas presenciais. 
+O link da sala virtual será divulgado na página do curso no e-disciplinas.
+
+[horizontal]
+Contato do Professor:: fcs@ime.usp.br
+
+=== MAC0105 - Fundamentos de Matemática para a Computação
+
+O  professor Sinai Robins prosseguirá com a disciplina através de encontros virtuais no 
+Google Meet no mesmo horário que eram as aulas presenciais. O link da sala virtual será divulgado 
+na página do curso no e-disciplinas.
+
+[horizontal]
+Contato do Professor:: srobins@ime.usp.br
+
 === MAC0110 - Introdução à Computação (Turma 42)
 
 O professor Denis Deratani Mauá dará continuidade a disciplina por meio de 
-vídeo-aulas e exercícios, usando o e-disciplinas.
+vídeo-aulas - usando o Google Meet. O link para sala virtual, bem como 
+exercícios, serão disponibilizados no e-Disciplinas.
 
 [horizontal]
 Contato do Professor:: ddm@ime.usp.br
@@ -590,7 +628,7 @@ Contato do Professor:: ddm@ime.usp.br
 Os professores Hitoshi e Coelho darão continuidade à disciplina da seguinte 
 forma:
 
-. Aulas online via Google Meet, no horário normal de aula.
+. Aulas online via link:https://meet.google.com/znx-sncn-wvm[Google Meet], no horário normal de aula.
 
 . As atividades no e-disciplinas seguem normalmente. 
 
@@ -601,6 +639,42 @@ Contato do Professor Hitoshi:: hitoshi@ime.usp.br
 
 [horizontal]
 Contato do Professor Coelho:: coelho@ime.usp.br
+
+=== MAC0110 - Introdução à Computação (Turma 54)
+
+O  professor Marcilio Sanches prosseguirá com a disciplina através de encontros virtuais no 
+Zoom a ocorrerem no mesmo horário que eram as aulas presenciais. O link da sala virtual será divulgado 
+na página da disciplina no PACA.
+
+[horizontal]
+Contato do Professor:: mms@ime.usp.br
+
+=== MAC0113 - Introdução à Computação para Ciências Humanas (Turmas 01 e 02 - FEA)
+
+A professora Ana Cristina prosseguirá com a disciplina através de vídeo-aulas 
+(transmissão assíncrona). Utilizará o e-Disciplinas para se comunicar com as(os) 
+estudantes, bem como divulgar a ferramenta adotada para encontros online.
+
+[horizontal]
+Contato da Professora:: acvm@ime.usp.br
+
+=== MAC0113 - Introdução à Computação para Ciências Humanas (Turmas 21 e 22 - FEA)
+
+O professor Kunio Okuda disponibilizará conteúdo online em página web disponibilizada aos 
+matriculados na disciplina. Além disso, encontros onlines serão realizados em mesmo horário que 
+eram as aulas presenciais, a ferramenta adotada para tal será divulgada no e-Disciplinas.
+
+[horizontal]
+Contato do Professor:: kunio@ime.usp.br
+
+=== MAC0115 - Introdução à Computação para Ciências Exatas e Tecnologia
+
+O professor Roberto Marcondes prosseguirá com a disciplina através de encontros virtuais no 
+Zoom a ocorrerem no mesmo horário que eram as aulas presenciais. O link da sala virtual será divulgado 
+na página da disciplina no e-Disciplinas.
+
+[horizontal]
+Contato do Professor:: cesar@ime.usp.br
 
 === MAC0218 - Técnicas de Programação II
 
