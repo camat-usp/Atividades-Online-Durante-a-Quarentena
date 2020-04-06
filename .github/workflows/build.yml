@@ -1,0 +1,42 @@
+name: Ruby
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Ruby 2.6
+      uses: actions/setup-ruby@v1
+      with:
+        ruby-version: 2.6.x
+        
+    - name: Set up Asciidoctor
+      run: |
+        gem install asciidoctor
+        gem install asciidoctor-pdf
+      
+    - name: Renderiza os documentos HTML e PDF
+      run: |
+        asciidoctor -b html -o index.html index.adoc
+        asciidoctor -b html -o faq.html faq.adoc
+        asciidoctor-pdf -b pdf -o informes.pdf index.adoc
+        git add index.html faq.html informes.pdf
+        
+    - name: Commit files
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git commit -m "Renderizados os documentos HTML e PDF" -a
+        
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
