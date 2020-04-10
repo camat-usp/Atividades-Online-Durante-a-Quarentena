@@ -8,6 +8,9 @@ CAMat <camat.usp@gmail.com>
 :stylesheet: assets/styles.css
 :hide-uri-scheme:
 
+image:https://img.shields.io/github/stars/camat-usp/Atividades-Online-Durante-a-Quarentena?style=social[GitHub, link=https://github.com/camat-usp/Atividades-Online-Durante-a-Quarentena]
+image:https://img.shields.io/twitter/follow/CAMatRadical?style=social[Twitter, link=https://twitter.com/CAMatRadical/]
+
 Com a determinação da CRUESP, que suspendeu temporariamente as atividades 
 escolares presenciais a partir de terça-feira (17/03), passaram a ser adotadas 
 alternativas online para dar continuidade às disciplinas.
@@ -33,10 +36,6 @@ https://camat-usp.github.io/Atividades-Online-Durante-a-Quarentena/faq.html[F.A.
 [NOTE]
 Você não tem suporte técnico adequado para acompanhar as atividades?
 https://qrgo.page.link/DRMk5[Comunique o CAMat!]
-
-[NOTE]
-Quer contribuir com esse site? Acesse 
-https://github.com/camat-usp/Atividades-Online-Durante-a-Quarentena[nossa página no GitHub]!
 
 toc::[]
 
