@@ -25,8 +25,8 @@ jobs:
       
     - name: Renderiza os documentos HTML e PDF
       run: |
-        asciidoctor -b html -o index.html index.adoc
-        asciidoctor -b html -o faq.html faq.adoc
+        asciidoctor -b html -a env-site -o index.html index.adoc
+        asciidoctor -b html -a env-site -o faq.html   faq.adoc
         asciidoctor-pdf -b pdf -o informes.pdf index.adoc
         git add index.html faq.html informes.pdf
         
