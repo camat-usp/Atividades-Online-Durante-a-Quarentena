@@ -475,6 +475,11 @@ https://www.ime.usp.br/~fmachado/MAE116/[site do professor].
 [horizontal]
 Contato do Professor:: fmachado@ime.usp.br
 
+=== MAE0121 - Introdução a Probabilidade e a Estatística I
+
+O professor José Carlos Simon de Miranda afirma não ter computador ou celular 
+e que, portanto, considera a disciplina suspensa por hora.
+
 === MAE0217 - Estatística Descritiva
 
 O professor Julio da Motta Singer optou por prosseguir com a disciplina 
@@ -550,6 +555,11 @@ para comunicação com as(os) estudantes durante o período de quarentena.
 
 [horizontal]
 Contato do Professor:: marcos@ime.usp.br
+
+=== MAE1511 - Estatística para Licenciatura I (Turma 47)
+
+O professor José Carlos Simon de Miranda afirma não ter computador ou celular 
+e que, portanto, considera a disciplina suspensa por hora.
 
 === MAE1514 - Estatística no Ensino Básico
 
