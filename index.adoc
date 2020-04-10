@@ -8,8 +8,10 @@ CAMat <camat.usp@gmail.com>
 :stylesheet: assets/styles.css
 :hide-uri-scheme:
 
+ifdef::env-site[]
 image:https://img.shields.io/github/stars/camat-usp/Atividades-Online-Durante-a-Quarentena?style=social[GitHub, link=https://github.com/camat-usp/Atividades-Online-Durante-a-Quarentena]
 image:https://img.shields.io/twitter/follow/CAMatRadical?style=social[Twitter, link=https://twitter.com/CAMatRadical/]
+endif::[]
 
 Com a determinação da CRUESP, que suspendeu temporariamente as atividades 
 escolares presenciais a partir de terça-feira (17/03), passaram a ser adotadas 
