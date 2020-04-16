@@ -493,7 +493,18 @@ da https://www.ime.usp.br/~jmsinger/doku.php?id=mae0217[página da disciplina].
 [horizontal]
 Contato do Professor:: jmsinger@ime.usp.br
 
-=== MAE0221 - Probabilidade I
+=== MAE0221 - Probabilidade I (Turma 45)
+
+A professora Elisabeti Kira prosseguirá com a disciplina por meio de encontros virtuais 
+via Google Meet para as aulas e monitorias e disponibilizará conteúdos na página 
+da matéria no e-Disciplinas.
+
+Segue link:https://meet.google.com/unb-mbxg-gjb[link para sala virtual].
+
+[horizontal]
+Contato da Professora:: betikira@ime.usp.br
+
+=== MAE0221 - Probabilidade I (Turma 46)
 
 O professor Fábio Machado adotou o e-disciplinas para prosseguir
 com a disciplina virtualmente, vide 
