@@ -119,18 +119,19 @@ Contato do Professor:: ivanstru@gmail.com
 
 === MAT0112 - Vetores e Geometria (Turma 43)
 
-A professora Christina Brech pretende repor as aulas presencialmente ao final 
-da quarentena e manter contato virtual com os alunos durante o período da quarentena. 
+A professora Christina Brech pretende repor as aulas presencialmente ao 
+final da quarentena. Mas visando atender à demanda de uma parte dos estudantes 
+e levando em conta que foi passado muito pouco conteúdo nas aulas presenciais, 
+de forma que não há muito mais o que revisar, a professor retomou as aulas para 
+os alunos que desejarem. 
 
-Na plataforma e-disciplinas, serão disponibilizados alguns materiais - vídeos, 
-textos, exercícios - relacionados ao conteúdo visto nas aulas presenciais, além 
-de fóruns para troca de ideias, sugestões e dúvidas. Uma vez por semana, nas terças às 10h, 
-encontrará os estudantes por meio do Google Meet, com link disponibilizado no e-disciplinas. 
+Mais informações encontram-se na plataforma e-disciplinas, incluindo o link 
+para os encontros (terças às 10h e quintas às 8h30) e as gravações e notas das aulas. 
 
 Ressalta que nenhuma das atividades oferecidas durante a quarentena será utilizada 
-como forma de avaliação ou controle de frequência. Ao contrário, o objetivo é 
-auxiliar os alunos, que puderem e quiserem, a manterem uma rotina de estudos, 
-contato com a matéria e com seus colegas.
+como forma de avaliação ou controle de frequência. Ao contrário, o objetivo é auxiliar 
+os alunos, que puderem e quiserem, a manterem uma rotina de estudos, contato com a matéria 
+e com seus colegas.
 
 [horizontal]
 Contato da Professora:: brech@ime.usp.br 
@@ -248,9 +249,9 @@ Contato do Professor:: bianconi@ime.usp.br
 
 === MAT0264 - Anéis e Corpos
 
-O professor Ivan Shestakov ainda não se pronunciou publicamente sobre essa 
-questão. Porém, a um e-mail de um aluno o indagando sobre esta questão, 
-respondeu que não ministraria as aulas de forma online.
+O professor Ivan Shestakov prosseguirá com a disciplina no sistema EaD 
+por meio de encontros virtuais via Google Meet a ocorrem no mesmo horário que eram
+as aulas presenciais. Segue o link:https://meet.google.com/sdc-xjvn-gbw?hs=151[link da sala virtual].
 
 [horizontal]
 Contato do Professor:: shestak@ime.usp.br
@@ -680,7 +681,7 @@ eram as aulas presenciais, a ferramenta adotada para tal será divulgada no e-Di
 [horizontal]
 Contato do Professor:: kunio@ime.usp.br
 
-=== MAC0115 - Introdução à Computação para Ciências Exatas e Tecnologia
+=== MAC0115 - Introdução à Computação para Ciências Exatas e Tecnologia (Turma 15 - IAG)
 
 O professor Roberto Marcondes prosseguirá com a disciplina através de encontros virtuais no 
 Zoom a ocorrerem no mesmo horário que eram as aulas presenciais. O link da sala virtual será divulgado 
@@ -688,6 +689,57 @@ na página da disciplina no e-Disciplinas.
 
 [horizontal]
 Contato do Professor:: cesar@ime.usp.br
+
+=== MAC0209 - Modelagem e Simulação (Turma 45)
+
+O professor Roberto Hirata prosseguirá com a disciplina através de encontros virtuais no 
+Zoom a ocorrerem no mesmo horário que eram as aulas presenciais. O link da sala virtual será divulgado 
+na página da disciplina no e-Disciplinas.
+
+[horizontal]
+Contato do Professor:: hirata@ime.usp.br
+
+=== MAC0209 - Modelagem e Simulação (Turma 52)
+
+O professor Roberto Marcondes prosseguirá com a disciplina através de encontros virtuais no 
+Zoom a ocorrerem no mesmo horário que eram as aulas presenciais. O link da sala virtual será divulgado 
+na página da disciplina no e-Disciplinas.
+
+[horizontal]
+Contato do Professor:: cesar@ime.usp.br
+
+=== MAC0210 - Laboratório de Métodos Numéricos
+
+O professor Ernesto Birgin disponibilizará conteúdo online em página web, disponibilizada aos 
+matriculados na disciplina. Além disso, encontros onlines via Google Meet serão realizados em 
+mesmo horário que eram as aulas presenciais, link da sala virtual a ser divulgado no e-Disciplinas.
+
+[horizontal]
+Contato do Professor:: egbirgin@ime.usp.br
+
+=== MAC0213 - Atividade Curricular em Comunidade
+
+O professor André Fujita dará continuidade a disciplina do mesmo modo como antes da quarentena. O 
+cronograma de aulas está mantido e será divulgado por meio da página da matéria no e-Disciplinas.
+
+[horizontal]
+Contato do Professor:: fujita@ime.usp.br
+
+=== MAC0214 - Atividade Curricular em Cultura e Extensão
+
+O professor Flávio Correa dará continuidade a disciplina do mesmo modo como antes da quarentena. O 
+cronograma de aulas está mantido e será divulgado por meio da página da matéria no e-Disciplinas.
+
+[horizontal]
+Contato do Professor:: fcs@ime.usp.br
+
+=== MAC0215 - Atividade Curricular em Pesquisa
+
+O professor André Fujita dará continuidade a disciplina do mesmo modo como antes da quarentena. O 
+cronograma de aulas está mantido e será divulgado por meio da página da matéria no e-Disciplinas.
+
+[horizontal]
+Contato do Professor:: fujita@ime.usp.br
 
 === MAC0218 - Técnicas de Programação II
 
@@ -723,7 +775,17 @@ aulas online são integradas ao e-disciplinas, acessíveis por um link interno.
 [horizontal]
 Contato do Professor:: mqz@ime.usp.br
 
-=== MAC0321 - Laboratório de Programação Orientada a Objetos
+MAC0320 - Introdução à Teoria dos Grafos
+
+A professor Yoshiko Wakabayashi disponibilizará conteúdo online no
+link:https://www.ime.usp.br/~yw/2020/grafinhos/[site da disciplina]. Além disso, 
+encontros onlines serão realizados via Google Meet no mesmo horário que eram as aulas presenciais, link da sala virtual a ser divulgado no e-Disciplinas.
+
+
+[horizontal]
+Contato da Professora:: yw@ime.usp.br
+
+=== MAC0321 - Laboratório de Programação Orientada a Objetos (Turmas 01 e 02)
 
 O professor Fábio Kon continuará ministrando o curso de forma online, da 
 seguinte forma: 
@@ -764,6 +826,15 @@ aulas da maneira como as está disponibilizando.
 [horizontal]
 Contato da Professora:: cris@ime.usp.br
 
+=== MAC0329 - Álgebra Booleana e Aplicações no Projeto de Arquitetura de Computadores
+
+A professora Nina Hirata prosseguirá com a disciplina através de encontros virtuais no 
+Google Meet a ocorrerem no mesmo horário que eram as aulas presenciais. O link da sala virtual 
+será divulgado na página da disciplina no e-Disciplinas.
+
+[horizontal]
+Contato da Professora:: nina@ime.usp.br 
+
 [[MAC0331]]
 === MAC0331 - Geometria Computacional
 
@@ -773,10 +844,14 @@ através do link: https://meet.google.com/vze-ybxa-wpx
 
 A comunicação com as(os) estudantes está sendo feita via e-mail institucional, 
 e-disciplinas e 
-https://www.ime.usp.br/~cris/aulas/20_1_331/[site da professora].
+link:https://www.ime.usp.br/~cris/geocomp/[site da disciplina].
 
 [horizontal]
 Contato da Professora:: cris@ime.usp.br
+
+=== MAC0335 - Leitura Dramática
+
+A disciplina foi cancelada.
 
 === MAC0336 - Criptografia e Segurança de Dados
 
